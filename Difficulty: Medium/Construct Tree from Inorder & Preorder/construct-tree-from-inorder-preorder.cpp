@@ -46,29 +46,27 @@ public:
 class Solution {
   public:
   
-  int findpos(vector<int> &in, int val, int s, int e){
-      for(int i = s; i<=e; i++){
+  int findposition(vector<int> &in, int val, int s, int e){
+      for(int i = s; i<= e; i++){
           if(in[i] == val) return i;
       }
       return -1;
   }
   
-  Node* solve(vector<int> &in, vector<int> &pre, int &preidx, int s, int e){
-      if(s>e){
-          return NULL;
-      }
+  Node* solve(vector<int> &in, vector<int> &pre, int &preidx, int instart, int inend){
+      if(instart>inend) return NULL;
       
-      Node* root = new Node(pre[preidx]);
+      int ele = pre[preidx];
+      Node* root = new Node(ele);
       preidx++;
       
-      int position = findpos(in, pre[preidx-1], s, e);
+      int pos = findposition(in, ele, instart, inend);
       
-      root->left = solve(in, pre, preidx, s, position-1);
-      root->right = solve(in, pre, preidx, position+1, e);
-      
+      root->left = solve(in, pre, preidx, instart, pos-1);
+      root->right = solve(in, pre, preidx, pos+1, inend);
       return root;
-      
   }
+  
     // Function to build the tree from given inorder and preorder traversals
     Node *buildTree(vector<int> &inorder, vector<int> &preorder) {
         // code here
