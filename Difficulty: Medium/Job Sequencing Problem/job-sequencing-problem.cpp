@@ -15,7 +15,7 @@ class Solution {
         // code here
         int n = deadline.size();
         int cnt = 0;
-         int p = 0;
+         int maxprofit = 0;
          priority_queue<int, vector<int>, greater<int>> pq;
          vector<int> ans;
          vector<pair<int, int>> v;
@@ -26,27 +26,27 @@ class Solution {
          sort(v.begin(), v.end());
          for(auto it:v){
              int d= it.first;
-             int wt = it.second;
+             int currprofit = it.second;
              
              if(d>cnt){
-                 p += wt;
-                 pq.push(wt);
+                 maxprofit += currprofit;
+                 pq.push(currprofit);
                  cnt++;
                  
              }
              else{
                  if(d==cnt){
-                     if(!pq.empty() && wt>pq.top()){
-                         p -= pq.top();
+                     if(!pq.empty() && currprofit>pq.top()){
+                         maxprofit -= pq.top();
                          pq.pop();
-                         p += wt;
-                         pq.push(wt);
+                         maxprofit += currprofit;
+                         pq.push(currprofit);
                      }
                  }
              }
          }
              ans.push_back(cnt);
-             ans.push_back(p);
+             ans.push_back(maxprofit);
              return ans;
              
          
