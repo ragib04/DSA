@@ -99,13 +99,13 @@ class Solution {
   public:
   
 int solve(Node* root,int &ans){
-        if(root==NULL) return 0;
-        int left=solve(root->left,ans);
-        int right=solve(root->right,ans);
-        int temp=max(0,max(left,right));
-        ans=max(ans,max(root->data+left+right ,root->data+temp));
-        
-        return root->data + temp;
+      if(!root) return 0;
+      int left = max(0, solve(root->left, ans));
+      int right = max(0, solve(root->right, ans));
+      
+      ans = max(ans, left+right+root->data);
+      return max(left, right)+root->data;
+      
     }
     int findMaxSum(Node *root) {
         // code here
