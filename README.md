@@ -8,6 +8,7 @@ LeetCode and GFG
 | ------- |
 | [0045-jump-game-ii](https://github.com/ragib04/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ragib04/DSA/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/ragib04/DSA/tree/master/0135-candy) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -18,4 +19,5 @@ LeetCode and GFG
 | ------- |
 | [0045-jump-game-ii](https://github.com/ragib04/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ragib04/DSA/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/ragib04/DSA/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
