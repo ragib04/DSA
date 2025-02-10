@@ -15,7 +15,10 @@ public:
                 ans[i] = max(ans[i], ans[i+1]+1);
             }
          }
-         sum = accumulate(ans.begin(), ans.end(), 0);
+        //  sum = accumulate(ans.begin(), ans.end(), 0);
+        for(int i = 0; i<n; i++){
+            sum += ans[i];
+        }
          
          return sum;
     }
