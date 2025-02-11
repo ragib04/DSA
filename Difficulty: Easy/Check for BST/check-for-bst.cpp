@@ -20,6 +20,8 @@ struct Node {
 class Solution {
   public:
 
+//  recursive App--------->
+
   bool solve(Node* root, long mini, long maxi){
       if(!root) return true;
       if(mini>=root->data || maxi <= root->data) return false;
@@ -34,6 +36,34 @@ class Solution {
         // Your code here
         return solve(root, INT_MIN, INT_MAX);
     }
+    
+    
+//          Iborder app-------->    
+    
+    // Function to check whether a Binary Tree is BST or not.
+ bool isBST(Node* root) {
+    if (root == NULL) return true;
+    
+    stack<Node*> st;
+    Node* prev = NULL;
+    
+    while (root != NULL || !st.empty()) {
+        while (root != NULL) {
+            st.push(root);
+            root = root->left;
+        }
+        
+        root = st.top();
+        st.pop();
+        
+        if (prev != NULL && root->data <= prev->data) return false;  
+        
+        prev = root;
+        root = root->right;
+    }
+    
+    return true;
+}
 };
 
 
