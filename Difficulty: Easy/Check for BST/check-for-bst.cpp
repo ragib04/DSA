@@ -24,7 +24,8 @@ class Solution {
       if(!root) return true;
       if(mini>=root->data || maxi <= root->data) return false;
       
-      return solve(root->left, mini, root->data) && solve(root->right, root->data, maxi);
+      return solve(root->left, mini, root->data)&&
+      solve(root->right, root->data, maxi);
      
 
   }
