@@ -94,6 +94,51 @@ struct Node {
 };
 */
 
+/*Complete the function below
+
+struct Node {
+    int data;
+    Node *left;
+    Node *right;
+
+    Node(int val) {
+        data = val;
+        left = right = NULL;
+    }
+};
+*/
+///     REcursive ------> T.c-> O(N), S.C -> O(H)
+class Solution {
+  public:
+    // Return the Kth smallest element in the given BST
+    void solve(Node* root, int k, vector<int> &ans){
+        if(!root) return;
+        
+      solve(root->left, k, ans);
+        
+        ans.push_back(root->data);
+        
+        
+        solve(root->right, k, ans);
+        
+        
+    }
+    int kthSmallest(Node *root, int k) {
+        // add code here.
+        vector<int> ans;
+        solve(root, k, ans);
+        if(k>ans.size()) return -1;
+        int res;
+        for(int i = 0; i<k; i++){
+            res = ans[i];
+        }
+        return res;
+    }
+};
+
+
+
+//     Iterative------------> t.c -> O(N), sc-> O(H)
 class Solution {
   public:
     // Return the Kth smallest element in the given BST
