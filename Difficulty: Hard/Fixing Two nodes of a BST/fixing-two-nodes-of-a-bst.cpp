@@ -114,6 +114,8 @@ class Node
 };
 */
 
+//approach 1 ->>>>>>> T.C= O(NlogN) s.c -> O(N)
+
 class Solution {
   public:
   bool static compare(Node* a, Node* b){
@@ -154,6 +156,34 @@ class Solution {
      }
      if(first && second) swap(first->data, second->data);
      
+    }
+};
+
+//APProach 2 ------>
+/////////  T.C = O(N)   S.C -> O(1)
+
+
+
+class Solution {
+  public:
+  Node* first = NULL, *second = NULL, *prev = NULL;
+  
+  void inorder(Node* root){
+      if(!root) return;
+      
+      inorder(root->left);
+      
+      if(prev && prev->data > root->data){
+          if(!first)  first = prev;
+          second = root;
+      }
+      prev= root;
+      inorder(root->right);
+  }
+    void correctBST(Node* root) {
+        // add code here.
+        inorder(root);
+        if(first && second) swap(first->data, second->data);
     }
 };
 
