@@ -47,10 +47,12 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ragib04/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ragib04/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ragib04/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
@@ -65,6 +67,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ragib04/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ragib04/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sorting
 |  |
@@ -78,4 +81,8 @@ LeetCode and GFG
 |  |
 | ------- |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ragib04/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ragib04/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
