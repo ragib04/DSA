@@ -9,6 +9,7 @@ LeetCode and GFG
 | [0045-jump-game-ii](https://github.com/ragib04/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ragib04/DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/ragib04/DSA/tree/master/0135-candy) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ragib04/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ragib04/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
@@ -80,6 +81,7 @@ LeetCode and GFG
 ## Backtracking
 |  |
 | ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ragib04/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ragib04/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Stack
 |  |
