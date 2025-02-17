@@ -1,29 +1,29 @@
 class Solution {
 public:
 int n;
-void solve(string tiles, vector<bool> &used, unordered_set<string> &ans, string curr){
-
-    ans.insert(curr);
+void solve(string tiles, vector<bool> &used, unordered_set<string> &ans, string &path){
+    ans.insert(path);
 
     for(int i = 0; i<n; i++){
-        if(used[i]) continue;
+        if(used[i] == true) continue;
 
         used[i] = true;
-        curr.push_back(tiles[i]);
-        solve(tiles, used, ans, curr);
+        path.push_back(tiles[i]);
+        solve(tiles, used, ans, path);
 
+        //undo
         used[i] = false;
-        curr.pop_back();
+        path.pop_back();
     }
-
 }
 
     int numTilePossibilities(string tiles) {
-      n = tiles.size();
+        n = tiles.size();
         vector<bool> used(n, false);
         unordered_set<string> ans;
-        string curr = " ";
-        solve(tiles, used, ans, curr);
-        return ans.size()-1;
+        string path = " ";
+        solve(tiles, used, ans, path);
+        return ans.size()-1; // -1 ? bcz it ans store a empty path 
+
     }
 };
