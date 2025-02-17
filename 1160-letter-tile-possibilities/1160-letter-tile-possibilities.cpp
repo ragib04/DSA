@@ -1,7 +1,7 @@
 class Solution {
 public:
 int n;
-void solve(string &tiles, vector<bool> &used, unordered_set<string> &ans, string curr){
+void solve(string tiles, vector<bool> &used, unordered_set<string> &ans, string curr){
 
     ans.insert(curr);
 
