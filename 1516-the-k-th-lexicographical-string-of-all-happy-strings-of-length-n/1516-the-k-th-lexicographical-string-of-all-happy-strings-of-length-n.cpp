@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-void solve(int n, string &path, string &res, int &k, int &cnt){
+void solve(int n, string &path, string &res, int k, int &cnt){
     //base case
     if(path.length() == n){
         cnt++;
