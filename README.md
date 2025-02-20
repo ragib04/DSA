@@ -9,6 +9,7 @@ LeetCode and GFG
 | [0045-jump-game-ii](https://github.com/ragib04/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ragib04/DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/ragib04/DSA/tree/master/0135-candy) |
+| [0747-min-cost-climbing-stairs](https://github.com/ragib04/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ragib04/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ragib04/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
@@ -17,6 +18,7 @@ LeetCode and GFG
 | [0045-jump-game-ii](https://github.com/ragib04/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ragib04/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ragib04/DSA/tree/master/0070-climbing-stairs) |
+| [0747-min-cost-climbing-stairs](https://github.com/ragib04/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ragib04/DSA/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
