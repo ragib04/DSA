@@ -10,7 +10,7 @@ public:
 // }
 
 int solve2(int n, vector<int> &cost){
-    vector<int> dp(n+1);
+   
 
     int prev2 = cost[0];
     int prev1 = cost[1];
