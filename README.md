@@ -11,6 +11,7 @@ LeetCode and GFG
 | [0135-candy](https://github.com/ragib04/DSA/tree/master/0135-candy) |
 | [0747-min-cost-climbing-stairs](https://github.com/ragib04/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ragib04/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/ragib04/DSA/tree/master/2107-find-unique-binary-string) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ragib04/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
@@ -47,6 +48,7 @@ LeetCode and GFG
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1160-letter-tile-possibilities](https://github.com/ragib04/DSA/tree/master/1160-letter-tile-possibilities) |
+| [2107-find-unique-binary-string](https://github.com/ragib04/DSA/tree/master/2107-find-unique-binary-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +93,7 @@ LeetCode and GFG
 | [1160-letter-tile-possibilities](https://github.com/ragib04/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ragib04/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ragib04/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/ragib04/DSA/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ragib04/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ragib04/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Stack
@@ -103,6 +106,7 @@ LeetCode and GFG
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/ragib04/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ragib04/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2107-find-unique-binary-string](https://github.com/ragib04/DSA/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ragib04/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Counting
 |  |
