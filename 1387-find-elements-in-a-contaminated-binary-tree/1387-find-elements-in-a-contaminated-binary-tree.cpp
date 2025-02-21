@@ -25,7 +25,8 @@ void dfs(TreeNode* root, int x){
     }
     
     bool find(int target) {
-        return st.count(target);
+        //return st.count(target);
+        return (st.find(target) != st.end());
     }
 };
 
