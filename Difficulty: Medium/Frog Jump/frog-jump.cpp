@@ -6,9 +6,7 @@ using namespace std;
 // } Driver Code Ends
 class Solution {
   public:
-  /*
-  
-  ////.  memoization--->>>>>>
+ ////.  memoization--->>>>>>
   
   int f(int n, vector<int> &height, vector<int> dp){
       if(n == 0) return 0;
@@ -22,12 +20,14 @@ class Solution {
   }*/
  
 
-    int minCost(vector<int>& height) {
+   /* int minCost(vector<int>& height) {
         // Code here
         int n = height.size();
         // vector<int> dp(ind+1);
-       // return f(ind-1, height, dp);  //memoization
+       // return f(ind-1, height, dp);  //memoization calling
        
+       
+       //    Tabulation -------->
        vector<int>ans(n,0);
         ans[0]=0;
         if(n==1)return 0;
@@ -38,6 +38,28 @@ class Solution {
             ans[i]=min(a,b);
         }
         return ans[n-1];
+    }*/
+    
+    
+    ///    space optimization--------->
+     int minCost(vector<int>& height) {
+        // Code here
+        int n = height.size();
+        // vector<int> dp(ind+1);
+       // return f(ind-1, height, dp);  //memoization
+       if(n==1) return 0;
+    
+       int prev2 = 0;
+       int prev1 = abs(height[1] - height[0]);
+        //ans[1]=abs(height[0]-height[1]);
+        for(int i = 2 ; i < n ; i++){
+            int a = prev1 + abs(height[i]-height[i-1]);
+            int b = prev2 + abs(height[i]-height[i-2]);
+            int curr = min(a,b);
+            prev2  = prev1;
+            prev1 = curr;
+        }
+        return prev1;
     }
 };
 
