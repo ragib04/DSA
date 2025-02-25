@@ -59,4 +59,4 @@ void DFSAlice(int curr, int t, int income, vector<bool> &visited, vector<int> &a
 
         return aliceIncome;
     }
-};
+}; 
