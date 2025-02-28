@@ -30,7 +30,8 @@ int solve(int j, int k, vector<int> &arr, unordered_map<int, int> &mp){
     }
 };
 */
-
+//.
+/*   Memoization---------->
 class Solution {
 public:
 
@@ -65,9 +66,9 @@ int solve(int j, int k, vector<int> &arr, unordered_map<int, int> &mp, vector<ve
     }
 };
 
+*/
 
-
-/*          -->BOtom up
+//         -->BOtom up
 class Solution {
 public:
     int lenLongestFibSubseq(vector<int>& arr) {
@@ -90,4 +91,4 @@ public:
         }
         return maxlen >= 3 ? maxlen : 0;
     }
-};*/
+};
