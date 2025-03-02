@@ -20,6 +20,7 @@ LeetCode and GFG
 | [2107-find-unique-binary-string](https://github.com/ragib04/DSA/tree/master/2107-find-unique-binary-string) |
 | [2551-apply-operations-to-an-array](https://github.com/ragib04/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ragib04/DSA/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ragib04/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3429-special-array-i](https://github.com/ragib04/DSA/tree/master/3429-special-array-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ragib04/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
@@ -68,11 +69,13 @@ LeetCode and GFG
 | [1160-letter-tile-possibilities](https://github.com/ragib04/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ragib04/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/ragib04/DSA/tree/master/2107-find-unique-binary-string) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ragib04/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2551-apply-operations-to-an-array](https://github.com/ragib04/DSA/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ragib04/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Tree
 |  |
 | ------- |
