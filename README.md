@@ -30,6 +30,7 @@ LeetCode and GFG
 | ------- |
 | [0045-jump-game-ii](https://github.com/ragib04/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ragib04/DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ragib04/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ragib04/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ragib04/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ragib04/DSA/tree/master/0213-house-robber-ii) |
@@ -49,6 +50,7 @@ LeetCode and GFG
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ragib04/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ragib04/DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ragib04/DSA/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ragib04/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -178,4 +180,8 @@ LeetCode and GFG
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ragib04/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/ragib04/DSA/tree/master/2551-apply-operations-to-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ragib04/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
