@@ -5,10 +5,10 @@ vector<bool> sive(int right){
     isprime[0] = false;
     isprime[1] = false;
 
-    for(int i = 2; i*i<=right; i++){
+    for(int i = 2; i<=right; i++){
         if(isprime[i] == true){
-            for(int j = 2; j*i<=right; j++){
-                isprime[i*j] = false;
+            for(int j = 2*i; j<=right; j+=i){
+                isprime[j] = false;
             }
         }
     }
