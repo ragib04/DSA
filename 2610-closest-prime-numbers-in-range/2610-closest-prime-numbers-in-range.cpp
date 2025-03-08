@@ -20,6 +20,7 @@ vector<bool> sive(int right){
         vector<int> primes;
         for(int num = left; num<= right; num++){
             if(isprime[num] == true){
+                if(!primes.empty() && num - primes.back() <= 2) return {primes.back(), num};
                 primes.push_back(num);
             }
         }
