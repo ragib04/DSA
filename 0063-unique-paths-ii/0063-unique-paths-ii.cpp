@@ -28,7 +28,7 @@ int solve(vector<vector<int>> &grid, int i, int j, vector<vector<int>> &dp){
 
 };*/
 
-/*
+
 
 // Tabulation->>>>>>>>>>>
 class Solution {
@@ -42,26 +42,26 @@ public:
                 if(grid[i][j] == 1) dp[i][j] = 0;
                 else if(i == 0 && j ==0) dp[0][0] = 1;
                 else{
-                   int left = 0, up = 0;
-                    if(i>0) up = dp[i-1][j];
-                    if(j>0) left = dp[i][j-1];
+                   int down = 0, right = 0;
+                    if(i>0) right = dp[i-1][j];
+                    if(j>0) down = dp[i][j-1];
 
-                    dp[i][j] = left+up;
+                    dp[i][j] = down+right;
                 }
 
             }
         }
         return dp[n-1][m-1];
     }
-};*/
-
+};
+/*
 class Solution {
 public:
 
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
 
-        int m = obstacleGrid.size();
-        int n = obstacleGrid[0].size();
+        int m = obstacleGrid.size();//col
+        int n = obstacleGrid[0].size();//crow
         
         vector<int> prev(n, 0);
 
@@ -99,3 +99,4 @@ public:
         return prev[n - 1];
     }
 };
+*/
