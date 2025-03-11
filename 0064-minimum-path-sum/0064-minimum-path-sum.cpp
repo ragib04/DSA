@@ -62,8 +62,10 @@ public:
                 }
                 else{
                     int up = INT_MAX, left = INT_MAX;
-                    if(i>0) up = prev[j];
 
+                    //prev row(i) curr col(j)
+                    if(i>0) up = prev[j];
+                    // curr row(i) prev col(j)
                     if(j>0) left = curr[j-1];
 
                     curr[j] = grid[i][j] + min(left, up);
