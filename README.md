@@ -84,6 +84,7 @@ LeetCode and GFG
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ragib04/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ragib04/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ragib04/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ragib04/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/ragib04/DSA/tree/master/2107-find-unique-binary-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ragib04/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/ragib04/DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -164,6 +165,7 @@ LeetCode and GFG
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ragib04/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ragib04/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/ragib04/DSA/tree/master/1170-shortest-common-supersequence) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ragib04/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ragib04/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/ragib04/DSA/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ragib04/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -210,6 +212,7 @@ LeetCode and GFG
 ## Sliding Window
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ragib04/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ragib04/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3463-alternating-groups-i](https://github.com/ragib04/DSA/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/ragib04/DSA/tree/master/3483-alternating-groups-ii) |
