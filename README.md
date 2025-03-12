@@ -25,6 +25,7 @@ LeetCode and GFG
 | [2265-partition-array-according-to-given-pivot](https://github.com/ragib04/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/ragib04/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ragib04/DSA/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ragib04/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ragib04/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/ragib04/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/ragib04/DSA/tree/master/3429-special-array-i) |
@@ -127,6 +128,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ragib04/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Tree
 |  |
 | ------- |
@@ -177,6 +179,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/ragib04/DSA/tree/master/1160-letter-tile-possibilities) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ragib04/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Design
 |  |
 | ------- |
