@@ -1,4 +1,6 @@
 /*
+
+//memoization
 class Solution {
 public:
 
@@ -26,7 +28,7 @@ int f(int i, int j,int m, vector<vector<int> > &matrix, vector<vector<int>> &dp)
     return mini;
     }
 };*/
-
+/*
 //Tabulation
 class Solution {
 public:
@@ -55,5 +57,35 @@ public:
     return ans;
 
     
+    }
+};*/
+
+
+class Solution {
+public:
+    int minFallingPathSum(vector<vector<int>>& matrix) {
+        int n = matrix.size();
+        int m = matrix[0].size();
+
+        vector<int> front(m), curr(m);
+
+        for(int j = 0; j<m; j++){
+            front[j] = matrix[0][j];
+        }
+        for(int i = 1; i<n; i++){
+            for(int j=0; j<m; j++){
+                int ld = (j>0)? front[j-1]: INT_MAX;
+                int up = front[j];
+                int rd = (j<m-1) ? front[j+1]: INT_MAX;
+
+                curr[j] = matrix[i][j] + min(ld, min(up, rd));
+            }
+            front = curr;
+        }
+        int mini = INT_MAX;
+        for(int j = 0; j<m ;j++){
+            mini = min(mini, front[j]);
+        }
+        return mini;
     }
 };
