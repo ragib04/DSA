@@ -5,7 +5,7 @@ bool ispossible(long long mid, vector<int> &rank, int cars){
     long long carfixed = 0;
 
     for(int i = 0; i<rank.size(); i++){
-        carfixed += sqrt(mid/rank[i]);
+        carfixed += floor(sqrt(mid/rank[i]));
     }
     return carfixed >= cars;
 }
