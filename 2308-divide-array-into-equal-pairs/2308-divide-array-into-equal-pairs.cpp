@@ -1,16 +1,10 @@
 class Solution {
 public:
     bool divideArray(vector<int>& nums) {
+        sort(nums.begin(), nums.end());
         int n= nums.size();
-        int i = 0;
-        while(i<n){
-            int val = nums[i];
-            int cnt = 0;
-            for(int j = 0; j<n; j++){
-                if(nums[j] == val) cnt++;
-            }
-            i++;
-            if(cnt%2 != 0) return false;
+        for(int i = 0; i<n; i += 2){
+            if(nums[i] != nums[i+1]) return false;
         }
         return true;
     }
