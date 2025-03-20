@@ -13,11 +13,6 @@ public:
                 cnt++;
             }
         }
-        for (int num : nums) {
-            if (num == 0)
-                return -1;
-        }
-
-        return cnt;
+        return (nums[n-2] == 1 && nums[n-1] == 1)? cnt : -1;
     }
 };
