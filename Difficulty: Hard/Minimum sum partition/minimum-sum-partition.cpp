@@ -8,60 +8,44 @@ using namespace std;
 class Solution {
 
   public:
-  
-//         vector<vector<int>> findAllSubsetsSum(vector<int>& nums, int l, int r) {
-//     int totLengthOfSubarray = r - l + 1;
-//     vector<vector<int>> res(totLengthOfSubarray + 1);
-//     for (int i = 0; i < (1 << totLengthOfSubarray); i++) {
-//         int sum = 0, countOfChosenNos = 0;
-//         for (int j = 0; j < totLengthOfSubarray; j++) {
-//             if (i & (1 << j)) {
-//                 sum += nums[l + j];
-//                 countOfChosenNos++;
-//             }
-//         }
-//         res[countOfChosenNos].push_back(sum);
-//     }
-//     return res;
-// }
     int minDifference(vector<int>& arr) {
-
-
-    
-    int n = arr.size();
-  int sum = 0;
-	    for(int i = 0; i<n; i++) sum+=arr[i];
-	    int t[n+1][sum+1];
-	    
-	    for(int i = 0; i<n+1; i++){
-	        for(int j = 0; j<sum+1; j++){
-
-	            if(i == 0) t[i][j] = 0; 
-	            if(j==0) t[i][j] = 1;
-	        }
-	    }
-	    //Filling up the table
-	    for(int i = 1; i<n+1; i++){
-	        for(int j = 1; j<sum+1; j++){
-	            if(arr[i-1] <= j){
-	                t[i][j] = (t[i-1][j-arr[i-1]] || t[i-1][j]);
-	            }
-	            else{
-	                t[i][j] = t[i-1][j];
-	            }
-	        }
-	    }
-	    int ans = INT_MAX;
-//All the subset sum which is possible for this n sized array will have true value in table in nth row
-	    for(int j = 0; j<sum+1; j++)//Iterating last row where the sum exists
-	    {
-// abs(sum - 2*(subset_sum) will give subset sum difference
-	        if(t[n][j] == 1) ans = min(ans, abs(sum - 2*j));
-	    }
-	    return ans;
-
+        // Your code goes here
+        int n  = arr.size();
+        int sum = 0;
+        for(int i =0; i<n; i++) sum += arr[i];
+        
+        int dp[n+1][sum+1];
+        //base case of subsetsum
+        for(int i = 0; i<n+1; i++){
+            for(int j = 0; j<sum+1; j++){
+               //if(arr[0]<=sum)   = [0][a[0]] = true
+               if(i == 0) dp[0][j] = 0;
+               if(j==0) dp[i][0] = 1;       //if sum == 0 true;
+            }
+        }
+        
+        for(int i = 1; i<n+1; i++){
+            for(int j = 1; j<sum+1; j++){
+                if(arr[i-1]<=j){
+                    //dp[i][j] = take || not_take
+                    dp[i][j] = dp[i-1][j-arr[i-1]] || dp[i-1][j];
+                    
+                }
+                //is not in subset range
+                else{
+                    dp[i][j] = dp[i-1][j];//not take
+                }
+            }
+        }
+        
+        int ans = INT_MAX;
+        for(int j = 0; j<sum+1; j++){
+            if(dp[n][j] == 1) ans = min(ans, abs(sum- (2*j)));
+        }
+       return ans; 
     }
 };
+
 
 
 
