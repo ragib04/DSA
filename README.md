@@ -57,6 +57,7 @@ LeetCode and GFG
 | [0120-triangle](https://github.com/ragib04/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/ragib04/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ragib04/DSA/tree/master/0213-house-robber-ii) |
+| [0678-valid-parenthesis-string](https://github.com/ragib04/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/ragib04/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ragib04/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/ragib04/DSA/tree/master/0967-minimum-falling-path-sum) |
@@ -72,6 +73,7 @@ LeetCode and GFG
 | [0055-jump-game](https://github.com/ragib04/DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/ragib04/DSA/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/ragib04/DSA/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/ragib04/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/ragib04/DSA/tree/master/0890-lemonade-change) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ragib04/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Math
@@ -192,10 +194,12 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ragib04/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/ragib04/DSA/tree/master/0678-valid-parenthesis-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ragib04/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/ragib04/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ragib04/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ragib04/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/ragib04/DSA/tree/master/1170-shortest-common-supersequence) |
