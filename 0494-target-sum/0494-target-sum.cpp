@@ -1,39 +1,36 @@
 class Solution {
 public:
-
 int func(int ind, int k, vector<int> &arr, vector<vector<int>> &dp){
-	if(ind == 0){
-		if(k == 0 && arr[0] == 0) return 2;
-		if(k == 0 || k == arr[0]) return 1;
+    if(ind == 0){
+        if(k == 0 && arr[0] == 0) return 2;
+        if(k == 0 ||k == arr[0] ) return 1;
 
-		return 0;
-	}
-	if(dp[ind][k] != -1) return dp[ind][k];
+        return 0;
+    }
+    if(dp[ind][k] != -1) return dp[ind][k];
+    int not_take = func(ind-1, k, arr, dp);
+    int take = 0;
+    if(arr[ind] <= k) take = func(ind-1, k-arr[ind], arr, dp);
 
-	int not_take = func(ind-1, k, arr, dp);
-	int take  = 0;
-	if(arr[ind] <= k) take = func(ind-1, k- arr[ind], arr, dp);
+    return dp[ind][k] = (take+not_take);
 
-	return dp[ind][k] = (not_take + take);
-}
-int findWays(vector<int>& arr, int k)
-{
-	// Write your code here.
-	int n = arr.size();
-	vector<vector<int>> dp(n, vector<int>(k+1, -1));
-	return func(n-1, k, arr, dp);
 }
 
-int countPartitions(int n, int d, vector<int> &arr) {
-    // Write your code here.
+int findways(int n, vector<int> &nums, int k){
+    vector<vector<int>> dp(n, vector<int>(k+1, -1));
+    return func(n-1, k, nums, dp);
+}
+
+int countpartitions(int n, int target, vector<int> &nums){
     int totalsum = 0;
-     for(auto &it: arr) totalsum += it;
+    for(auto &it: nums) totalsum += it;
 
-     if(totalsum - d <0 || (totalsum-d)%2) return 0;
-     return findWays(arr, (totalsum-d)/2);
+    if(totalsum-target < 0 || (totalsum-target)%2) return 0;
+    return findways(n, nums, (totalsum-target)/2);
 }
     int findTargetSumWays(vector<int>& nums, int target) {
         int n= nums.size();
-        return countPartitions(n, target, nums);
+        return countpartitions(n, target, nums);
+
     }
 };
