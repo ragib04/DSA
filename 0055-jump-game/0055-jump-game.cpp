@@ -1,11 +1,11 @@
 class Solution {
 public:
     bool canJump(vector<int>& nums) {
-        int maxjump = 0;
-        for(int i = 0; i<nums.size(); i++){
-            if(i>maxjump) return false;
-            maxjump = max(maxjump, i+nums[i]);
+        int maxjump = nums.size()-1;
+        for(int i = nums.size()-2; i>=0; i--){
+            if(maxjump<=i+nums[i]) maxjump = i;
+
         }
-        return true;
+return (maxjump == 0)? true : false;
     }
 };
