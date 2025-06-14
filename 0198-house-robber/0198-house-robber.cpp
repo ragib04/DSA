@@ -14,7 +14,18 @@ int robed(int ind, vector<int> &nums, vector<int> &dp){
 }
     int rob(vector<int>& nums) {
         int n= nums.size();
-        vector<int> dp(n+1, -1);
-        return robed(n-1, nums, dp);
+        //vector<int> dp(n+1, -1);
+        vector<int> dp(n+1);
+        //return robed(n-1, nums, dp);
+        dp[0] = nums[0];
+        
+        for(int i= 1; i<n; i++){
+            int pick = nums[i];
+            if(i>1) pick = pick+dp[i-2];
+            int not_pick = dp[i-1];
+
+            dp[i] = max(pick, not_pick);
+        }
+        return dp[n-1];
     }
 };
