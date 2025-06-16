@@ -1,34 +1,37 @@
-/*
-
-//memoization
-class Solution {
+/*class Solution {
 public:
 
-int f(int i, int j,int m, vector<vector<int> > &matrix, vector<vector<int>> &dp){
-    
+int solve(int i, int j, vector<vector<int>> &matrix, int m, vector<vector<int>> & dp){
     if(j<0 || j>=m) return INT_MAX;
-    if(i == 0) return matrix[0][j];
+
+    if(i == 0) return matrix[i][j];
     if(dp[i][j] != -1) return dp[i][j];
-    int up = matrix[i][j] + f(i-1, j, m, matrix, dp);
-    int leftdiag = (j>0)? matrix[i][j] + f(i-1, j-1, m, matrix, dp) : INT_MAX;
-    int rightdiag =(j<m-1)?  matrix[i][j] + f(i-1, j+1, m, matrix, dp): INT_MAX;
 
-    return dp[i][j] = min(up, min(leftdiag, rightdiag));
+    int ld =  solve(i-1, j-1, matrix, m, dp) ;
+    int up = solve(i-1, j, matrix, m, dp);
+    int rd =  solve(i-1, j+1, matrix, m, dp);
+
+    return dp[i][j] = matrix[i][j] + min(up, min(ld, rd));
+
 }
-    int minFallingPathSum(vector<vector<int>>& matrix) {
-       int n = matrix.size();
-      int  m = matrix[0].size();
-       vector<vector<int>> dp(n, vector<int>(m, -1));
-        int mini = INT_MAX; 
 
-    for (int j = 0; j < m; j++) {
-        int ans = f(n - 1, j, m, matrix, dp); 
-        mini = min(mini, ans); 
+
+    int minFallingPathSum(vector<vector<int>>& matrix) {
+        int n = matrix.size();
+        int m = matrix[0].size();
+        vector<vector<int>> dp(n, vector<int> (m,-1));
+        int mini = INT_MAX;
+        for(int j = 0; j<m; j++){
+             int ans = solve(n-1, j, matrix, m, dp);
+             mini = min(mini, ans);
+        }
+        return mini;
     }
-    return mini;
-    }
-};*/
-/*
+};
+
+*/
+
+
 //Tabulation
 class Solution {
 public:
@@ -58,9 +61,9 @@ public:
 
     
     }
-};*/
+};
 
-
+/*
 class Solution {
 public:
     int minFallingPathSum(vector<vector<int>>& matrix) {
@@ -88,4 +91,4 @@ public:
         }
         return mini;
     }
-};
+};*/
