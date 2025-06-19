@@ -10,6 +10,7 @@ LeetCode and GFG
 | [0055-jump-game](https://github.com/ragib04/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/ragib04/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ragib04/DSA/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/ragib04/DSA/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/ragib04/DSA/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/ragib04/DSA/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/ragib04/DSA/tree/master/0198-house-robber) |
@@ -230,6 +231,7 @@ LeetCode and GFG
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ragib04/DSA/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/ragib04/DSA/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/ragib04/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ragib04/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -321,6 +323,7 @@ LeetCode and GFG
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ragib04/DSA/tree/master/0078-subsets) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ragib04/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ragib04/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/ragib04/DSA/tree/master/2478-longest-nice-subarray) |
