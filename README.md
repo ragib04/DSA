@@ -14,6 +14,7 @@ LeetCode and GFG
 | [0078-subsets](https://github.com/ragib04/DSA/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/ragib04/DSA/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/ragib04/DSA/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/ragib04/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ragib04/DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/ragib04/DSA/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/ragib04/DSA/tree/master/0213-house-robber-ii) |
@@ -129,6 +130,7 @@ LeetCode and GFG
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ragib04/DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/ragib04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/ragib04/DSA/tree/master/0768-partition-labels) |
@@ -211,6 +213,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ragib04/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ragib04/DSA/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/ragib04/DSA/tree/master/0455-assign-cookies) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ragib04/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ragib04/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -268,6 +271,7 @@ LeetCode and GFG
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ragib04/DSA/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/ragib04/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ragib04/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ragib04/DSA/tree/master/2308-divide-array-into-equal-pairs) |
@@ -279,6 +283,7 @@ LeetCode and GFG
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ragib04/DSA/tree/master/0169-majority-element) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ragib04/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Graph
 |  |
