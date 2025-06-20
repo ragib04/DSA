@@ -10,6 +10,7 @@ LeetCode and GFG
 | [0055-jump-game](https://github.com/ragib04/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/ragib04/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ragib04/DSA/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/ragib04/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ragib04/DSA/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/ragib04/DSA/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/ragib04/DSA/tree/master/0135-candy) |
@@ -147,6 +148,7 @@ LeetCode and GFG
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ragib04/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ragib04/DSA/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/ragib04/DSA/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -208,6 +210,7 @@ LeetCode and GFG
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ragib04/DSA/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/ragib04/DSA/tree/master/0455-assign-cookies) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ragib04/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ragib04/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
