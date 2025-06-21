@@ -17,9 +17,9 @@ int func(int ind, int t,vector<int> &coins, vector<vector<long>> &dp){
         int n = coins.size();
         vector<vector<long>> dp(n, vector<long>(amount+1, 0));
         //return func(n-1, amount, coins, dp);
-        for(int i = 0; i<n; i++) dp[i][0] = 1;
+        //for(int i = 0; i<n; i++) dp[i][0] = 1;
 
-        for(int i = 0; i<amount+1; i++){
+        for(int i = 0; i<=amount; i++){
             if(i%coins[0] == 0) dp[0][i] = 1;
         }
 
