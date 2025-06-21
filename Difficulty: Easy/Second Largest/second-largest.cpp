@@ -1,52 +1,17 @@
-//{ Driver Code Starts
-#include <bits/stdc++.h>
-
-using namespace std;
-
-
-// } Driver Code Ends
-// User function template for C++
 class Solution {
   public:
-    // Function returns the second
-    // largest elements
     int getSecondLargest(vector<int> &arr) {
-        // Code Here
-        int a = arr[0];
-        int b = -1;
-        for(int i : arr) {
-            if(i > a) {
-                b = a;
-                a = i;
-            } else if (i > b && i != a) {
-                b = i;
+        // code here
+        int lar = arr[0];
+        int sec = -1;
+        for(int i = 0; i<arr.size(); i++){
+            if(arr[i]>lar){
+                sec = lar;
+                lar = arr[i];
             }
+            else if(arr[i]<lar && arr[i]>sec) sec = arr[i];
         }
-        return b;
+        return sec;
+        
     }
 };
-
-//{ Driver Code Starts.
-
-int main() {
-    int t;
-    cin >> t;
-    cin.ignore();
-    while (t--) {
-        vector<int> arr;
-        string input;
-        getline(cin, input);
-        stringstream ss(input);
-        int number;
-        while (ss >> number) {
-            arr.push_back(number);
-        }
-        Solution ob;
-        int ans = ob.getSecondLargest(arr);
-        cout << ans << endl;
-        cout << "~" << endl;
-    }
-    return 0;
-}
-
-// } Driver Code Ends
