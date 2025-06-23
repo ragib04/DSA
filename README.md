@@ -6,6 +6,7 @@ LeetCode and GFG
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ragib04/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ragib04/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/ragib04/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ragib04/DSA/tree/master/0053-maximum-subarray) |
@@ -138,6 +139,7 @@ LeetCode and GFG
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ragib04/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ragib04/DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/ragib04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
