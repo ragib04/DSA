@@ -14,6 +14,7 @@ LeetCode and GFG
 | [0055-jump-game](https://github.com/ragib04/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/ragib04/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ragib04/DSA/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ragib04/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ragib04/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ragib04/DSA/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/ragib04/DSA/tree/master/0120-triangle) |
@@ -145,6 +146,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ragib04/DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ragib04/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ragib04/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ragib04/DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/ragib04/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -249,6 +251,7 @@ LeetCode and GFG
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ragib04/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ragib04/DSA/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ragib04/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0967-minimum-falling-path-sum](https://github.com/ragib04/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ragib04/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ragib04/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
