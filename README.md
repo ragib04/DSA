@@ -16,6 +16,7 @@ LeetCode and GFG
 | [0063-unique-paths-ii](https://github.com/ragib04/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ragib04/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ragib04/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ragib04/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ragib04/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ragib04/DSA/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/ragib04/DSA/tree/master/0120-triangle) |
@@ -215,6 +216,7 @@ LeetCode and GFG
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ragib04/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ragib04/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ragib04/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -254,6 +256,7 @@ LeetCode and GFG
 | [0063-unique-paths-ii](https://github.com/ragib04/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ragib04/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ragib04/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ragib04/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/ragib04/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ragib04/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ragib04/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
