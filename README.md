@@ -44,6 +44,7 @@ LeetCode and GFG
 | [0792-binary-search](https://github.com/ragib04/DSA/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/ragib04/DSA/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ragib04/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0907-koko-eating-bananas](https://github.com/ragib04/DSA/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ragib04/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0967-minimum-falling-path-sum](https://github.com/ragib04/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ragib04/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -233,6 +234,7 @@ LeetCode and GFG
 | [0540-single-element-in-a-sorted-array](https://github.com/ragib04/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0792-binary-search](https://github.com/ragib04/DSA/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/ragib04/DSA/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ragib04/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ragib04/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ragib04/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
