@@ -37,6 +37,7 @@ LeetCode and GFG
 | [0455-assign-cookies](https://github.com/ragib04/DSA/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/ragib04/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ragib04/DSA/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ragib04/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ragib04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/ragib04/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/ragib04/DSA/tree/master/0792-binary-search) |
@@ -227,6 +228,7 @@ LeetCode and GFG
 | [0035-search-insert-position](https://github.com/ragib04/DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ragib04/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ragib04/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ragib04/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0792-binary-search](https://github.com/ragib04/DSA/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ragib04/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
