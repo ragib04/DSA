@@ -6,7 +6,8 @@ int sumofD(vector<int> &nums, int div){
     for(int i = 0; i<n;i++){
         sum = sum+ceil((double)(nums[i])/(double)(div));
     }
-    return sum;
+
+     return sum;
 }
     int smallestDivisor(vector<int>& nums, int threshold) {
         int n = nums.size();
