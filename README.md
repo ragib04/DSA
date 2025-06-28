@@ -135,6 +135,7 @@ LeetCode and GFG
 | ------- |
 | [0007-reverse-integer](https://github.com/ragib04/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ragib04/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ragib04/DSA/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/ragib04/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ragib04/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ragib04/DSA/tree/master/0189-rotate-array) |
@@ -161,6 +162,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ragib04/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ragib04/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/ragib04/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ragib04/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ragib04/DSA/tree/master/0169-majority-element) |
@@ -305,6 +307,7 @@ LeetCode and GFG
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ragib04/DSA/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/ragib04/DSA/tree/master/0125-valid-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/ragib04/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ragib04/DSA/tree/master/0583-delete-operation-for-two-strings) |
