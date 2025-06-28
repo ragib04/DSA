@@ -173,6 +173,7 @@ LeetCode and GFG
 | [0217-contains-duplicate](https://github.com/ragib04/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ragib04/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ragib04/DSA/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/ragib04/DSA/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/ragib04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/ragib04/DSA/tree/master/0768-partition-labels) |
@@ -319,6 +320,7 @@ LeetCode and GFG
 | [0013-roman-to-integer](https://github.com/ragib04/DSA/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/ragib04/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ragib04/DSA/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/ragib04/DSA/tree/master/0290-word-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/ragib04/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ragib04/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/ragib04/DSA/tree/master/0678-valid-parenthesis-string) |
