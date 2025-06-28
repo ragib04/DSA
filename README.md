@@ -33,6 +33,7 @@ LeetCode and GFG
 | [0198-house-robber](https://github.com/ragib04/DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/ragib04/DSA/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/ragib04/DSA/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/ragib04/DSA/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/ragib04/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ragib04/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/ragib04/DSA/tree/master/0455-assign-cookies) |
@@ -166,6 +167,7 @@ LeetCode and GFG
 | [0073-set-matrix-zeroes](https://github.com/ragib04/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ragib04/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ragib04/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ragib04/DSA/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/ragib04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/ragib04/DSA/tree/master/0768-partition-labels) |
@@ -263,6 +265,7 @@ LeetCode and GFG
 | ------- |
 | [0075-sort-colors](https://github.com/ragib04/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ragib04/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ragib04/DSA/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/ragib04/DSA/tree/master/0455-assign-cookies) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ragib04/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ragib04/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
