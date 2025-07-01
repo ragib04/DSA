@@ -152,6 +152,7 @@ LeetCode and GFG
 | [0007-reverse-integer](https://github.com/ragib04/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ragib04/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ragib04/DSA/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/ragib04/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ragib04/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ragib04/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ragib04/DSA/tree/master/0189-rotate-array) |
@@ -169,6 +170,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ragib04/DSA/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/ragib04/DSA/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/ragib04/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
