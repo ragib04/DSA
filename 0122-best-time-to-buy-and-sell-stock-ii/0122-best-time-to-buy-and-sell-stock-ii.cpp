@@ -1,3 +1,8 @@
+// for buy/ take = -prices[i] + solve(i + 1, 0, prices, n, dp)
+// for not take = 0 + solve(i + 1, 1, prices, n, dp));
+//for sale = prices[i] + solve(i + 1, 1, prices, n, dp),
+// you not sale =  0 + solve(i + 1, 0, prices, n, dp));
+
 class Solution {
 public:
     long solve(int i, int buy, vector<int>& prices, int n,
