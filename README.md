@@ -95,6 +95,7 @@ LeetCode and GFG
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ragib04/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ragib04/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ragib04/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ragib04/DSA/tree/master/0055-jump-game) |
@@ -128,6 +129,7 @@ LeetCode and GFG
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ragib04/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ragib04/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ragib04/DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/ragib04/DSA/tree/master/0135-candy) |
@@ -162,6 +164,7 @@ LeetCode and GFG
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ragib04/DSA/tree/master/0044-wildcard-matching) |
 | [1013-fibonacci-number](https://github.com/ragib04/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -334,6 +337,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ragib04/DSA/tree/master/0013-roman-to-integer) |
+| [0044-wildcard-matching](https://github.com/ragib04/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ragib04/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ragib04/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ragib04/DSA/tree/master/0125-valid-palindrome) |
