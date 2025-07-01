@@ -339,6 +339,7 @@ LeetCode and GFG
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/ragib04/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/ragib04/DSA/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/ragib04/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ragib04/DSA/tree/master/0072-edit-distance) |
