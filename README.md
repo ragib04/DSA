@@ -7,6 +7,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ragib04/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/ragib04/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ragib04/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ragib04/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ragib04/DSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -342,6 +343,7 @@ LeetCode and GFG
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ragib04/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/ragib04/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ragib04/DSA/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/ragib04/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ragib04/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ragib04/DSA/tree/master/0115-distinct-subsequences) |
@@ -479,4 +481,8 @@ LeetCode and GFG
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ragib04/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ragib04/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
