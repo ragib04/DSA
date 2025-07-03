@@ -52,6 +52,7 @@ LeetCode and GFG
 | [0540-single-element-in-a-sorted-array](https://github.com/ragib04/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ragib04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ragib04/DSA/tree/master/0645-set-mismatch) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ragib04/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/ragib04/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/ragib04/DSA/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/ragib04/DSA/tree/master/0890-lemonade-change) |
@@ -126,6 +127,7 @@ LeetCode and GFG
 | [0518-coin-change-ii](https://github.com/ragib04/DSA/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/ragib04/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/ragib04/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ragib04/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/ragib04/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ragib04/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/ragib04/DSA/tree/master/0967-minimum-falling-path-sum) |
@@ -148,6 +150,7 @@ LeetCode and GFG
 | [0409-longest-palindrome](https://github.com/ragib04/DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/ragib04/DSA/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/ragib04/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ragib04/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/ragib04/DSA/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/ragib04/DSA/tree/master/0890-lemonade-change) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ragib04/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
