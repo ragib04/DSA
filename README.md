@@ -64,6 +64,7 @@ LeetCode and GFG
 | [0907-koko-eating-bananas](https://github.com/ragib04/DSA/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ragib04/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0967-minimum-falling-path-sum](https://github.com/ragib04/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1129-longest-string-chain](https://github.com/ragib04/DSA/tree/master/1129-longest-string-chain) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ragib04/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ragib04/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ragib04/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -139,6 +140,7 @@ LeetCode and GFG
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ragib04/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/ragib04/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/ragib04/DSA/tree/master/1013-fibonacci-number) |
+| [1129-longest-string-chain](https://github.com/ragib04/DSA/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/ragib04/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/ragib04/DSA/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ragib04/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -224,6 +226,7 @@ LeetCode and GFG
 | [0768-partition-labels](https://github.com/ragib04/DSA/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ragib04/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ragib04/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1129-longest-string-chain](https://github.com/ragib04/DSA/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/ragib04/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ragib04/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ragib04/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -249,6 +252,7 @@ LeetCode and GFG
 | [0455-assign-cookies](https://github.com/ragib04/DSA/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/ragib04/DSA/tree/master/0768-partition-labels) |
+| [1129-longest-string-chain](https://github.com/ragib04/DSA/tree/master/1129-longest-string-chain) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ragib04/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ragib04/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ragib04/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -328,6 +332,7 @@ LeetCode and GFG
 | [0451-sort-characters-by-frequency](https://github.com/ragib04/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ragib04/DSA/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/ragib04/DSA/tree/master/0645-set-mismatch) |
+| [1129-longest-string-chain](https://github.com/ragib04/DSA/tree/master/1129-longest-string-chain) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ragib04/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ragib04/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ragib04/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -392,6 +397,7 @@ LeetCode and GFG
 | [0678-valid-parenthesis-string](https://github.com/ragib04/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/ragib04/DSA/tree/master/0768-partition-labels) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ragib04/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1129-longest-string-chain](https://github.com/ragib04/DSA/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/ragib04/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/ragib04/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/ragib04/DSA/tree/master/1250-longest-common-subsequence) |
