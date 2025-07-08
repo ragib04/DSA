@@ -14,7 +14,7 @@ if(dp[ind][k] != -1) return dp[ind][k];
     int not_take = func(ind+1, event, k, dp);
     int j = ind+1;
     for( ; j<n; j++){
-        if(event[j][0]>event[ind][1]) break;
+        if(event[j][0]>end) break;
     }
     int take = value + func(j, event, k-1, dp);
 
