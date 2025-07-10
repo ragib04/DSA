@@ -107,6 +107,7 @@ LeetCode and GFG
 | [3483-alternating-groups-ii](https://github.com/ragib04/DSA/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/ragib04/DSA/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ragib04/DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ragib04/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ragib04/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ragib04/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
@@ -173,6 +174,7 @@ LeetCode and GFG
 | [2456-construct-smallest-number-from-di-string](https://github.com/ragib04/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/ragib04/DSA/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ragib04/DSA/tree/master/3001-apply-operations-to-maximize-score) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ragib04/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ragib04/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Math
 |  |
@@ -483,6 +485,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ragib04/DSA/tree/master/0204-count-primes) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ragib04/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Sliding Window
 |  |
 | ------- |
