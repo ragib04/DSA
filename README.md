@@ -289,6 +289,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ragib04/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0547-number-of-provinces](https://github.com/ragib04/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ragib04/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ragib04/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -299,6 +300,7 @@ LeetCode and GFG
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ragib04/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0322-coin-change](https://github.com/ragib04/DSA/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/ragib04/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ragib04/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ragib04/DSA/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -456,6 +458,7 @@ LeetCode and GFG
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ragib04/DSA/tree/master/0547-number-of-provinces) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ragib04/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ragib04/DSA/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/ragib04/DSA/tree/master/2793-count-the-number-of-complete-components) |
@@ -533,6 +536,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ragib04/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/ragib04/DSA/tree/master/0547-number-of-provinces) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ragib04/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/ragib04/DSA/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ragib04/DSA/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
