@@ -230,6 +230,7 @@ LeetCode and GFG
 | ------- |
 | [0044-wildcard-matching](https://github.com/ragib04/DSA/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/ragib04/DSA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/ragib04/DSA/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/ragib04/DSA/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ragib04/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ragib04/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -635,6 +636,7 @@ LeetCode and GFG
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ragib04/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ragib04/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ragib04/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Function
