@@ -326,6 +326,7 @@ LeetCode and GFG
 | [0547-number-of-provinces](https://github.com/ragib04/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/ragib04/DSA/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/ragib04/DSA/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/ragib04/DSA/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ragib04/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ragib04/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -344,6 +345,7 @@ LeetCode and GFG
 | [0547-number-of-provinces](https://github.com/ragib04/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/ragib04/DSA/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/ragib04/DSA/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/ragib04/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ragib04/DSA/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ragib04/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -516,6 +518,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ragib04/DSA/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/ragib04/DSA/tree/master/0801-is-graph-bipartite) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ragib04/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ragib04/DSA/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/ragib04/DSA/tree/master/2793-count-the-number-of-complete-components) |
@@ -600,6 +603,7 @@ LeetCode and GFG
 | [0130-surrounded-regions](https://github.com/ragib04/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ragib04/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ragib04/DSA/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/ragib04/DSA/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/ragib04/DSA/tree/master/1073-number-of-enclaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ragib04/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/ragib04/DSA/tree/master/2793-count-the-number-of-complete-components) |
