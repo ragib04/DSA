@@ -1,43 +1,40 @@
 class Solution {
   public:
-  
-      bool dfs(vector<vector<int>>& adj, vector<bool> &visited, unordered_set<int>& currentpath, int vertex) {
-        vector<int>sides = adj[vertex];
-        
-        for(int i=0;i<sides.size();i++) {
-            if(!visited[sides[i]]) {
-                currentpath.insert(sides[i]);
-                visited[sides[i]]=true;
-                bool x = dfs(adj,visited,currentpath,sides[i]);
-                if(x) {
-                    return true;
-                }
-            } else {
-                if(currentpath.find(sides[i])!=currentpath.end()) {
-                    return true;
-                }
-            }
-        }
-        currentpath.erase(vertex);
-        return false;
-    }
-    bool isCyclic(int V, vector<vector<int>> &edges) {
+    bool isCyclic(int v, vector<vector<int>> &edges) {
         // code here
-        vector<vector<int>>adj = vector<vector<int>>(V);
-        for(int i=0;i<edges.size();i++) {
-            adj[edges[i][0]].push_back(edges[i][1]);
+        vector<vector<int>> adj(v);
+        for(int i= 0; i<edges.size(); i++){
+            int x = edges[i][0];
+            int y = edges[i][1];
+            adj[x].push_back(y);
         }
-        
-        for(int i=0;i<V;i++) {
-        vector<bool>visited = vector<bool>(V,false);
-        unordered_set<int>path;
-        path.insert(i);
-        visited[i]=true;
-            if(dfs(adj,visited,path,i)) {
-                return true;
+        // find all indegree
+        vector<int> indegree(v);
+        for(int i = 0; i<v; i++){
+            for(auto j: adj[i]){
+                indegree[j]++;
             }
         }
-        return false;
-    
+        queue<int> q;
+        //push all 0 indegree in the queue
+        for(int i = 0; i<v; i++){
+            if(indegree[i] == 0) q.push(i);
+        }
+        // do bfs
+        int cnt = 0;
+        while(!q.empty()){
+            int front = q.front();
+            q.pop();
+            
+            cnt++;
+            //neighbour indegree update
+            for(auto node: adj[front]){
+                indegree[node]--;
+                if(indegree[node] == 0) q.push(node);
+            }
+        }
+        if(cnt == v) return false;
+        return true;
+            
     }
 };
