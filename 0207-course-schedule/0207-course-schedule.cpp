@@ -20,19 +20,19 @@ public:
             if(indegree[i] == 0) q.push(i);
         }
         // do bfs
-        int cnt = 0;
+        vector<int> topo;
         while(!q.empty()){
             int front = q.front();
             q.pop();
             
-            cnt++;
+            topo.push_back(front);
             //neighbour indegree update
             for(auto node: adj[front]){
                 indegree[node]--;
                 if(indegree[node] == 0) q.push(node);
             }
         }
-        if(cnt == v) return true;
+        if(topo.size() == v) return true;
         return false;
             
     }
