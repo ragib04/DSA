@@ -1,46 +1,35 @@
 class Solution {
 public:
-    vector<int> findOrder(int v, vector<vector<int>>& edges) {
-     
-
-        vector<vector<int>> adj(v);
-        for(int i= 0; i<edges.size(); i++){
-            int x = edges[i][1];
-            int y = edges[i][0];
+    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
+        vector<vector<int>> adj(numCourses);
+        for(int i = 0; i<prerequisites.size(); i++){
+            int x = prerequisites[i][1];
+            int y = prerequisites[i][0];
             adj[x].push_back(y);
         }
-        // find all indegree
-        vector<int> indegree(v);
-        for(int i = 0; i<v; i++){
+        vector<int>indegree(numCourses);
+        for(int i = 0; i<numCourses; i++){
             for(auto j: adj[i]){
                 indegree[j]++;
             }
         }
         queue<int> q;
-        //push all 0 indegree in the queue
-        for(int i = 0; i<v; i++){
+        for(int i = 0; i<numCourses; i++){
             if(indegree[i] == 0) q.push(i);
         }
-        // do bfs
-        vector<int> topo;
+
+        vector<int> course;
         while(!q.empty()){
             int front = q.front();
             q.pop();
-            
-            topo.push_back(front);
-            //neighbour indegree update
-            for(auto node: adj[front]){
-                indegree[node]--;
-                if(indegree[node] == 0) q.push(node);
+            course.push_back(front);
+
+            for(auto neighbour: adj[front]){
+                indegree[neighbour]--;
+                if(indegree[neighbour] == 0) q.push(neighbour);
             }
-            
-        
         }
-       
-        if(topo.size() == v)
-        return topo;
+        if(course.size() == numCourses) return course;
         return {};
-        
-            
     }
 };
