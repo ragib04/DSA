@@ -5,8 +5,8 @@ public:
 
         vector<vector<int>> adj(v);
         for(int i= 0; i<edges.size(); i++){
-            int x = edges[i][0];
-            int y = edges[i][1];
+            int x = edges[i][1];
+            int y = edges[i][0];
             adj[x].push_back(y);
         }
         // find all indegree
@@ -36,7 +36,7 @@ public:
             
         
         }
-        reverse(topo.begin(), topo.end());
+       
         if(topo.size() == v)
         return topo;
         return {};
