@@ -13,16 +13,17 @@ class Solution {
         for(int i=0; i<V-1; i++){
             string str1 = words[i];
             string str2 = words[i+1];
-            int j=0;
-            while(j<str1.size() && j<str2.size() && str1[j] == str2[j]){
-                j++;
-            }
-            if(j!= str1.size() && j == str2.size()){
-                return "";
-            }
-            
-            if (j < str1.size() && j < str2.size()) {
-                adj[str1[j] - 'a'].push_back(str2[j] - 'a');
+           int len = min(str1.size(), str2.size());
+            bool found = false;
+           for(int ptr = 0; ptr<len; ptr++){
+               if(str1[ptr] != str2[ptr]){
+                   adj[str1[ptr] - 'a'].push_back(str2[ptr] - 'a');
+                   found = true;
+                   break;
+               }
+           }
+            if (!found && str1.size() > str2.size()) {
+                return "";  // Invalid order
             }
         }
         
