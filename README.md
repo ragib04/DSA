@@ -94,6 +94,7 @@ LeetCode and GFG
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ragib04/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ragib04/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ragib04/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ragib04/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ragib04/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ragib04/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ragib04/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -388,6 +389,7 @@ LeetCode and GFG
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ragib04/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ragib04/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ragib04/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ragib04/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ragib04/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ragib04/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ragib04/DSA/tree/master/2665-minimum-time-to-repair-cars) |
@@ -550,6 +552,7 @@ LeetCode and GFG
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ragib04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ragib04/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ragib04/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ragib04/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ragib04/DSA/tree/master/3618-find-the-original-typed-string-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/ragib04/DSA/tree/master/3643-zero-array-transformation-ii) |
@@ -586,6 +589,7 @@ LeetCode and GFG
 | [0219-contains-duplicate-ii](https://github.com/ragib04/DSA/tree/master/0219-contains-duplicate-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ragib04/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/ragib04/DSA/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ragib04/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ragib04/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/ragib04/DSA/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ragib04/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
