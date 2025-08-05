@@ -135,6 +135,7 @@ LeetCode and GFG
 | [3748-sort-matrix-by-diagonals](https://github.com/ragib04/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ragib04/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ragib04/DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/ragib04/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -397,6 +398,7 @@ LeetCode and GFG
 | [2665-minimum-time-to-repair-cars](https://github.com/ragib04/DSA/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/ragib04/DSA/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/ragib04/DSA/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/ragib04/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -568,6 +570,7 @@ LeetCode and GFG
 | [2479-meeting-rooms-iii](https://github.com/ragib04/DSA/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/ragib04/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ragib04/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/ragib04/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -622,6 +625,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ragib04/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3790-fruits-into-baskets-ii](https://github.com/ragib04/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Bitmask
 |  |
 | ------- |
@@ -692,6 +696,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ragib04/DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/ragib04/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Brainteaser
 |  |
 | ------- |
