@@ -231,6 +231,7 @@ LeetCode and GFG
 | [0231-power-of-two](https://github.com/ragib04/DSA/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/ragib04/DSA/tree/master/0368-largest-divisible-subset) |
 | [0826-soup-servings](https://github.com/ragib04/DSA/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/ragib04/DSA/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/ragib04/DSA/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ragib04/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ragib04/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -283,6 +284,7 @@ LeetCode and GFG
 | [0645-set-mismatch](https://github.com/ragib04/DSA/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/ragib04/DSA/tree/master/0768-partition-labels) |
+| [0900-reordered-power-of-2](https://github.com/ragib04/DSA/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ragib04/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ragib04/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/ragib04/DSA/tree/master/0940-fruit-into-baskets) |
@@ -428,6 +430,7 @@ LeetCode and GFG
 | [0451-sort-characters-by-frequency](https://github.com/ragib04/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ragib04/DSA/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/ragib04/DSA/tree/master/0645-set-mismatch) |
+| [0900-reordered-power-of-2](https://github.com/ragib04/DSA/tree/master/0900-reordered-power-of-2) |
 | [1129-longest-string-chain](https://github.com/ragib04/DSA/tree/master/1129-longest-string-chain) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ragib04/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ragib04/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -532,6 +535,7 @@ LeetCode and GFG
 | [0169-majority-element](https://github.com/ragib04/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ragib04/DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ragib04/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0900-reordered-power-of-2](https://github.com/ragib04/DSA/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/ragib04/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ragib04/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ragib04/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -594,6 +598,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ragib04/DSA/tree/master/0204-count-primes) |
+| [0900-reordered-power-of-2](https://github.com/ragib04/DSA/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ragib04/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ragib04/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ragib04/DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
