@@ -1,33 +1,31 @@
 class Solution {
 public:
-    int MOD = 1e9+7;
+      int M = 1e9+7;
+    int t[301][301];
 
-    long long intPower(int base, int exp) {
-        long long result = 1;
-        for (int i = 0; i < exp; i++) {
-            result *= base;
-            if (result > INT_MAX) return LLONG_MAX; // prevent overflow
+    int solve(int n, int num, int x) {
+        if(n == 0)
+            return 1;
+        
+        if(n < 0)
+            return 0;
+        
+        int currPowerValue = pow(num, x);
+        if(currPowerValue > n) {
+            return 0;
         }
-        return result;
+
+        if(t[n][num] != -1) {
+            return t[n][num];
+        }
+
+        int take = solve(n-currPowerValue, num+1, x);
+        int skip = solve(n, num+1, x);
+
+        return t[n][num] = (take+skip)%M;
     }
-
-    int solve(int n, int x, int num, vector<vector<int>> &dp) {
-        if (n == 0) return 1;
-        if (n < 0) return 0;
-        if (num > n) return 0; // bound check
-        if (dp[n][num] != -1) return dp[n][num];
-
-        long long numpowval = intPower(num, x);
-        if (numpowval > n) return 0;
-
-        int take = solve(n - (int)numpowval, x, num + 1, dp);
-        int not_take = solve(n, x, num + 1, dp);
-
-        return dp[n][num] = (take + not_take) % MOD;
-    }
-
     int numberOfWays(int n, int x) {
-        vector<vector<int>> dp(n + 1, vector<int>(n + 1, -1));
-        return solve(n, x, 1, dp);
+        memset(t, -1, sizeof(t));
+        return solve(n, 1, x);
     }
 };
