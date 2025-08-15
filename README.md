@@ -236,6 +236,7 @@ LeetCode and GFG
 | [0204-count-primes](https://github.com/ragib04/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ragib04/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ragib04/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ragib04/DSA/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/ragib04/DSA/tree/master/0368-largest-divisible-subset) |
 | [0826-soup-servings](https://github.com/ragib04/DSA/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/ragib04/DSA/tree/master/0900-reordered-power-of-2) |
@@ -260,6 +261,7 @@ LeetCode and GFG
 | [0206-reverse-linked-list](https://github.com/ragib04/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ragib04/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ragib04/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ragib04/DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/ragib04/DSA/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ragib04/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ragib04/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -647,6 +649,7 @@ LeetCode and GFG
 | ------- |
 | [0078-subsets](https://github.com/ragib04/DSA/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/ragib04/DSA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/ragib04/DSA/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/ragib04/DSA/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ragib04/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ragib04/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
