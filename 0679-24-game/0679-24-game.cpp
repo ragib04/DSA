@@ -1,6 +1,7 @@
 class Solution {
 public:
-double eps = 0.1;
+double eps = 0.001;
+
 bool solve(vector<double> cards){
     if(cards.size() == 1){
         return abs(cards[0] - 24.0)<=eps;
@@ -34,6 +35,7 @@ bool solve(vector<double> cards){
 }
     bool judgePoint24(vector<int>& cards) {
         vector<double> nums;
+    
         for(int i = 0; i<cards.size(); i++) nums.push_back(cards[i]);
 
         return solve(nums);
