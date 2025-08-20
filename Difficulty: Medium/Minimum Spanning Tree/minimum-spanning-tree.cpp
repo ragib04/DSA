@@ -1,33 +1,47 @@
 class Solution {
-  public:
-    int spanningTree(int V, vector<vector<int>>& edges) {
-        // code here
-       vector<vector<pair<int, int>>> adj(V);
-        for(auto &i: edges){
-            adj[i[0]].push_back({i[1], i[2]});
-            adj[i[1]].push_back({i[0], i[2]});
+public:
+ static bool comp(const vector<int> &a, const vector<int> &b) {
+        return a[2] < b[2];
+    }
+int findparent(vector<int> &parent, int node) {
+        if (parent[node] == node) return node;
+        return parent[node] = findparent(parent, parent[node]);
+    }
+
+
+    void unionset(int u, int v, vector<int> &parent, vector<int> &rank) {
+        u = findparent(parent, u);
+        v = findparent(parent, v);
+
+        if (u == v) return;
+
+        if (rank[u] < rank[v]) {
+            parent[u] = v;
+        } else if (rank[v] < rank[u]) {
+            parent[v] = u;
+        } else {
+            parent[v] = u;
+            rank[u]++;
         }
-        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
-        vector<int> vis(V, 0);
-        pq.push({0,0});
-        int sum = 0;
-        while(!pq.empty()){
-            auto it = pq.top();
-            int node = it.second;
-            int wt = it.first;
-            pq.pop();
-            
-            if(vis[node] == 1) continue;
-            vis[node] = 1;
-            sum += wt;
-            for(auto it: adj[node]){
-                int adjnode = it.first;
-                int w = it.second;
-                if(vis[adjnode] == 0){
-                    pq.push({w,adjnode});
-                }
+    }
+
+    int spanningTree(int V, vector<vector<int>> &edges) {
+    
+        sort(edges.begin(), edges.end(), comp);
+vector<int> parent(V), rank(V, 0);
+        for (int i = 0; i < V; i++) parent[i] = i;
+
+        int minwt = 0;
+        for (int i = 0; i < edges.size(); i++) {
+            int u = findparent(parent, edges[i][0]);
+            int v = findparent(parent, edges[i][1]);
+            int wt = edges[i][2];
+
+            if (u != v) {
+                minwt += wt;
+                unionset(u, v, parent, rank);
             }
         }
-        return sum;
+        return minwt;
     }
 };
