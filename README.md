@@ -85,6 +85,7 @@ LeetCode and GFG
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ragib04/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ragib04/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ragib04/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ragib04/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ragib04/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1753-path-with-minimum-effort](https://github.com/ragib04/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/ragib04/DSA/tree/master/1813-maximum-erasure-value) |
@@ -194,6 +195,7 @@ LeetCode and GFG
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ragib04/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ragib04/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ragib04/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ragib04/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ragib04/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ragib04/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ragib04/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -497,6 +499,7 @@ LeetCode and GFG
 | [1073-number-of-enclaves](https://github.com/ragib04/DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ragib04/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ragib04/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ragib04/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/ragib04/DSA/tree/master/1753-path-with-minimum-effort) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ragib04/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ragib04/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -524,6 +527,7 @@ LeetCode and GFG
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ragib04/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/ragib04/DSA/tree/master/0678-valid-parenthesis-string) |
+| [1628-count-submatrices-with-all-ones](https://github.com/ragib04/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ragib04/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ragib04/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ragib04/DSA/tree/master/3001-apply-operations-to-maximize-score) |
@@ -735,6 +739,7 @@ LeetCode and GFG
 ## Monotonic Stack
 |  |
 | ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/ragib04/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ragib04/DSA/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Queue
 |  |
