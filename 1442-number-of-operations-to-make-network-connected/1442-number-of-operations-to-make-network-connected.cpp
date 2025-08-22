@@ -1,6 +1,4 @@
-class Solution {
-public:
-    class Disjointset {
+ class Disjointset {
     public:
         vector<int> parent, rank;
 
@@ -35,6 +33,9 @@ public:
             }
         }
     };
+class Solution {
+public:
+   
 
     int makeConnected(int n, vector<vector<int>>& connections) {
         if (connections.size() < n - 1) return -1; // not enough edges
