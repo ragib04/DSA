@@ -57,6 +57,7 @@ LeetCode and GFG
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ragib04/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ragib04/DSA/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/ragib04/DSA/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/ragib04/DSA/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/ragib04/DSA/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ragib04/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ragib04/DSA/tree/master/0542-01-matrix) |
@@ -500,6 +501,7 @@ LeetCode and GFG
 | [0130-surrounded-regions](https://github.com/ragib04/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ragib04/DSA/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/ragib04/DSA/tree/master/0221-maximal-square) |
+| [0498-diagonal-traverse](https://github.com/ragib04/DSA/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/ragib04/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ragib04/DSA/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/ragib04/DSA/tree/master/0967-minimum-falling-path-sum) |
@@ -639,6 +641,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ragib04/DSA/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/ragib04/DSA/tree/master/0498-diagonal-traverse) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ragib04/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ragib04/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/ragib04/DSA/tree/master/2479-meeting-rooms-iii) |
