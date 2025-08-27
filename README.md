@@ -146,6 +146,7 @@ LeetCode and GFG
 | [3643-zero-array-transformation-ii](https://github.com/ragib04/DSA/tree/master/3643-zero-array-transformation-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ragib04/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ragib04/DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ragib04/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ragib04/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ragib04/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ragib04/DSA/tree/master/3748-sort-matrix-by-diagonals) |
@@ -216,6 +217,7 @@ LeetCode and GFG
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ragib04/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ragib04/DSA/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ragib04/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ragib04/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Greedy
 |  |
 | ------- |
@@ -295,6 +297,7 @@ LeetCode and GFG
 | [0070-climbing-stairs](https://github.com/ragib04/DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ragib04/DSA/tree/master/1013-fibonacci-number) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/ragib04/DSA/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ragib04/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Hash Table
 |  |
 | ------- |
@@ -525,6 +528,7 @@ LeetCode and GFG
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ragib04/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ragib04/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ragib04/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ragib04/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ragib04/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Backtracking
 |  |
