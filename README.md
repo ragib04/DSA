@@ -13,6 +13,7 @@ LeetCode and GFG
 | [0033-search-in-rotated-sorted-array](https://github.com/ragib04/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ragib04/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ragib04/DSA/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/ragib04/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ragib04/DSA/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/ragib04/DSA/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/ragib04/DSA/tree/master/0045-jump-game-ii) |
@@ -306,6 +307,7 @@ LeetCode and GFG
 | ------- |
 | [0001-two-sum](https://github.com/ragib04/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ragib04/DSA/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/ragib04/DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/ragib04/DSA/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/ragib04/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ragib04/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -510,6 +512,7 @@ LeetCode and GFG
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ragib04/DSA/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/ragib04/DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/ragib04/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ragib04/DSA/tree/master/0064-minimum-path-sum) |
