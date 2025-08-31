@@ -408,6 +408,7 @@ LeetCode and GFG
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ragib04/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/ragib04/DSA/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ragib04/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1300-critical-connections-in-a-network](https://github.com/ragib04/DSA/tree/master/1300-critical-connections-in-a-network) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ragib04/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ragib04/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ragib04/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -646,6 +647,7 @@ LeetCode and GFG
 | [0803-cheapest-flights-within-k-stops](https://github.com/ragib04/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/ragib04/DSA/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ragib04/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1300-critical-connections-in-a-network](https://github.com/ragib04/DSA/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ragib04/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ragib04/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ragib04/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -839,4 +841,8 @@ LeetCode and GFG
 | [0803-cheapest-flights-within-k-stops](https://github.com/ragib04/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ragib04/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ragib04/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/ragib04/DSA/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
