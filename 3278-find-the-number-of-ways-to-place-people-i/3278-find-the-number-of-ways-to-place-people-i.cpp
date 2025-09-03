@@ -1,33 +1,28 @@
 class Solution {
 public:
+static bool comp(vector<int> &a, vector<int> &b){
+    if(a[0] == b[0]){
+        return a[1]>b[1];
+    }
+    return a[0]<b[0];
+}
     int numberOfPairs(vector<vector<int>>& points) {
         int n = points.size();
-        int ans = 0;
+        int cnt = 0;
+        sort(points.begin(), points.end(), comp);
+        for(int i = 0; i<n; i++){
+            int y1 = points[i][1];
+            int maxy = INT_MIN;
+            for(int j = i+1; j<n; j++){
+                int y2 = points[j][1];
+                if(y2>y1) continue; //invalid point
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (i == j) continue;
-                
-                int x1 = points[i][0], y1 = points[i][1];
-                int x2 = points[j][0], y2 = points[j][1];
-
-              
-                if (x1 <= x2 && y1 >= y2) {
-                    bool ok = true;
-                    for (int k = 0; k < n; k++) {
-                        if (k == i || k == j) continue;
-                        int x = points[k][0], y = points[k][1];
-                    // strictly inside check no other points in rectangle
-                        if (x1 <= x && x <= x2 && y2 <= y && y <= y1) {
-                            ok = false;
-                            break;
-                        }
-                    }
-                    if (ok == true) ans++;
+                if(y2>maxy){
+                    cnt++;
+                    maxy = y2;
                 }
             }
         }
-
-        return ans;
+        return cnt;
     }
 };
