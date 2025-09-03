@@ -1,28 +1,25 @@
 class Solution {
 public:
-static bool comp(vector<int>& a,vector<int>& b)
-{
-    if(a[0]==b[0])
-    return a[1]>b[1];
+static bool comp(vector<int> &a, vector<int> &b){
+    if(a[0] == b[0]){
+        return a[1]>b[1];
+    }
     return a[0]<b[0];
 }
-    int numberOfPairs(vector<vector<int>>& arr) {
-        int n=arr.size();
-        sort(arr.begin(),arr.end(),comp);
-        int cnt=0;
-        for(int i=0;i<n;i++)
-        {
-            int top=arr[i][1];
-            int bot=INT_MIN;
-            for(int j=i+1;j<n;j++)
-            {
-                int y=arr[j][1];
-                if(bot<y&&y<=top)
-                {
+    int numberOfPairs(vector<vector<int>>& points) {
+        int n = points.size();
+        int cnt = 0;
+        sort(points.begin(), points.end(), comp);
+        for(int i = 0; i<n; i++){
+            int y1 = points[i][1];
+            int maxy = INT_MIN;
+            for(int j = i+1; j<n; j++){
+                int y2 = points[j][1];
+                if(y2>y1) continue; //invalid point
+
+                if(y2>maxy){
                     cnt++;
-                    bot=y;
-                    if(bot==top)
-                    break;
+                    maxy = y2;
                 }
             }
         }
