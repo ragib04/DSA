@@ -219,6 +219,7 @@ LeetCode and GFG
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ragib04/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ragib04/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ragib04/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ragib04/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ragib04/DSA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ragib04/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ragib04/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -686,6 +687,7 @@ LeetCode and GFG
 | [0498-diagonal-traverse](https://github.com/ragib04/DSA/tree/master/0498-diagonal-traverse) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ragib04/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ragib04/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ragib04/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/ragib04/DSA/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/ragib04/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ragib04/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -767,6 +769,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ragib04/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ragib04/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ragib04/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union Find
 |  |
