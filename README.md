@@ -521,6 +521,7 @@ LeetCode and GFG
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ragib04/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/ragib04/DSA/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/ragib04/DSA/tree/master/2689-rearranging-fruits) |
+| [2887-sort-vowels-in-a-string](https://github.com/ragib04/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ragib04/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ragib04/DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ragib04/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -625,6 +626,7 @@ LeetCode and GFG
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ragib04/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ragib04/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ragib04/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2887-sort-vowels-in-a-string](https://github.com/ragib04/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/ragib04/DSA/tree/master/3396-valid-word) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ragib04/DSA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/ragib04/DSA/tree/master/3617-find-the-original-typed-string-i) |
