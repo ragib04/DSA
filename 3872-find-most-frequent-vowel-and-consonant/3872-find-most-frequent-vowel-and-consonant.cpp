@@ -1,18 +1,21 @@
 class Solution {
 public:
     int maxFreqSum(string s) {
-        int freq[26], maxi1 = 0, maxi2 = 0;
+        unordered_map<char, int> mp;
+        int maxc = 0, maxv =0;
         for(char c: s){
-            int i = c - 'a';
-            freq[i]++;
-            if(c == 'a' || c == 'i' || c == 'e' || c == 'o' || c=='u'){
-                maxi1 = max(maxi1, freq[i]);
-
+            if(isvowel(c)){
+                mp[c]++;
+                maxv = max(maxv, mp[c]);
             }
             else{
-                maxi2 = max(maxi2, freq[i]);
+                mp[c]++;
+                maxc = max(maxc, mp[c]);
             }
         }
-        return maxi1+maxi2;
+        return maxc+maxv;
+    }
+    bool isvowel(char c){
+        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
     }
 };
