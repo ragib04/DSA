@@ -4,16 +4,11 @@ public:
         string str;
         int open = 0;
         for(char c: s){
-            if(c == '('){
-                
-                if(open>0) str += c;
-                open++;
-            }
-            else{ 
+            if(c == ')'){
                 open--;
-                if(open>0)
-                    str += c;
             }
+            if(open>0) str += c;
+            if(c == '(') open++; 
         }
         return str;
     }
