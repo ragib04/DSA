@@ -894,4 +894,8 @@ LeetCode and GFG
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/ragib04/DSA/tree/master/3462-vowels-game-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ragib04/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
