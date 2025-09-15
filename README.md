@@ -354,6 +354,7 @@ LeetCode and GFG
 | [1129-longest-string-chain](https://github.com/ragib04/DSA/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/ragib04/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ragib04/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/ragib04/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ragib04/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ragib04/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ragib04/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -620,6 +621,7 @@ LeetCode and GFG
 | [1160-letter-tile-possibilities](https://github.com/ragib04/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/ragib04/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/ragib04/DSA/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/ragib04/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ragib04/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ragib04/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ragib04/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
