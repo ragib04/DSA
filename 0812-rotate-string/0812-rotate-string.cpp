@@ -20,7 +20,7 @@ public:
         int m = goal.size();
         if(n != m) return false;
         for(int i = 0; i<n; i++){
-            rotate(s.begin(),s.begin()+1 ,s.end());
+            rotate(s.begin(),s.begin()+1 ,s.end()); //stl in bult func rotate(begin, begin+k, end) where k = no of rotation
             if(s == goal) return true;
         }
         return false;
