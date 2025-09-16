@@ -617,6 +617,7 @@ LeetCode and GFG
 | [0678-valid-parenthesis-string](https://github.com/ragib04/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/ragib04/DSA/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/ragib04/DSA/tree/master/0768-partition-labels) |
+| [0812-rotate-string](https://github.com/ragib04/DSA/tree/master/0812-rotate-string) |
 | [1006-vowel-spellchecker](https://github.com/ragib04/DSA/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/ragib04/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ragib04/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -902,4 +903,8 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ragib04/DSA/tree/master/0175-combine-two-tables) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/ragib04/DSA/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
