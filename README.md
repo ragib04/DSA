@@ -337,6 +337,7 @@ LeetCode and GFG
 | [0217-contains-duplicate](https://github.com/ragib04/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ragib04/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ragib04/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ragib04/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ragib04/DSA/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/ragib04/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/ragib04/DSA/tree/master/0409-longest-palindrome) |
@@ -513,6 +514,7 @@ LeetCode and GFG
 | [0169-majority-element](https://github.com/ragib04/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ragib04/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ragib04/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ragib04/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ragib04/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/ragib04/DSA/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/ragib04/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -611,6 +613,7 @@ LeetCode and GFG
 | [0125-valid-palindrome](https://github.com/ragib04/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ragib04/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ragib04/DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ragib04/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ragib04/DSA/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/ragib04/DSA/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/ragib04/DSA/tree/master/0451-sort-characters-by-frequency) |
