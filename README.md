@@ -376,6 +376,7 @@ LeetCode and GFG
 | [2888-minimum-index-of-a-valid-split](https://github.com/ragib04/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/ragib04/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ragib04/DSA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3678-design-task-manager](https://github.com/ragib04/DSA/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ragib04/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ragib04/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -671,6 +672,7 @@ LeetCode and GFG
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ragib04/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ragib04/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/ragib04/DSA/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/ragib04/DSA/tree/master/3678-design-task-manager) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -789,6 +791,7 @@ LeetCode and GFG
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ragib04/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2429-design-a-food-rating-system](https://github.com/ragib04/DSA/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/ragib04/DSA/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/ragib04/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ragib04/DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Bitmask
@@ -840,6 +843,7 @@ LeetCode and GFG
 | [2479-meeting-rooms-iii](https://github.com/ragib04/DSA/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ragib04/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/ragib04/DSA/tree/master/2681-put-marbles-in-bags) |
+| [3678-design-task-manager](https://github.com/ragib04/DSA/tree/master/3678-design-task-manager) |
 ## Monotonic Stack
 |  |
 | ------- |
