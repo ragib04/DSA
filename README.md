@@ -166,6 +166,7 @@ LeetCode and GFG
 | [3790-fruits-into-baskets-ii](https://github.com/ragib04/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ragib04/DSA/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/ragib04/DSA/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/ragib04/DSA/tree/master/3827-implement-router) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -380,6 +381,7 @@ LeetCode and GFG
 | [3678-design-task-manager](https://github.com/ragib04/DSA/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ragib04/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/ragib04/DSA/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/ragib04/DSA/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ragib04/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -501,6 +503,7 @@ LeetCode and GFG
 | [3643-zero-array-transformation-ii](https://github.com/ragib04/DSA/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/ragib04/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ragib04/DSA/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/ragib04/DSA/tree/master/3827-implement-router) |
 ## Binary Tree
 |  |
 | ------- |
@@ -680,6 +683,7 @@ LeetCode and GFG
 | [2429-design-a-food-rating-system](https://github.com/ragib04/DSA/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ragib04/DSA/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/ragib04/DSA/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/ragib04/DSA/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -801,6 +805,7 @@ LeetCode and GFG
 | [3678-design-task-manager](https://github.com/ragib04/DSA/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/ragib04/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ragib04/DSA/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/ragib04/DSA/tree/master/3827-implement-router) |
 ## Bitmask
 |  |
 | ------- |
@@ -811,6 +816,7 @@ LeetCode and GFG
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ragib04/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ragib04/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ragib04/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/ragib04/DSA/tree/master/3827-implement-router) |
 ## Union Find
 |  |
 | ------- |
