@@ -172,6 +172,7 @@ LeetCode and GFG
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ragib04/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ragib04/DSA/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/ragib04/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ragib04/DSA/tree/master/0045-jump-game-ii) |
@@ -390,6 +391,7 @@ LeetCode and GFG
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ragib04/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ragib04/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ragib04/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ragib04/DSA/tree/master/0075-sort-colors) |
@@ -615,6 +617,7 @@ LeetCode and GFG
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ragib04/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/ragib04/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/ragib04/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ragib04/DSA/tree/master/0014-longest-common-prefix) |
