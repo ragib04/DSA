@@ -273,6 +273,7 @@ LeetCode and GFG
 | [0050-powx-n](https://github.com/ragib04/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ragib04/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ragib04/DSA/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ragib04/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/ragib04/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ragib04/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ragib04/DSA/tree/master/0231-power-of-two) |
@@ -337,6 +338,7 @@ LeetCode and GFG
 | [0073-set-matrix-zeroes](https://github.com/ragib04/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ragib04/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ragib04/DSA/tree/master/0141-linked-list-cycle) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ragib04/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/ragib04/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ragib04/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ragib04/DSA/tree/master/0217-contains-duplicate) |
@@ -629,6 +631,7 @@ LeetCode and GFG
 | [0125-valid-palindrome](https://github.com/ragib04/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ragib04/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ragib04/DSA/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ragib04/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/ragib04/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ragib04/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ragib04/DSA/tree/master/0290-word-pattern) |
