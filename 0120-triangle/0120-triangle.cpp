@@ -1,6 +1,7 @@
 class Solution {
 public:
 
+//memoization
 int f(int i, int j, vector<vector<int>> &triangle, int n, vector<vector<int>> &dp){
     
     if(i == n-1) return triangle[n-1][j];
@@ -13,6 +14,11 @@ int f(int i, int j, vector<vector<int>> &triangle, int n, vector<vector<int>> &d
 }
     int minimumTotal(vector<vector<int>>& triangle) {
         int n = triangle.size();
+//Memoization
+        // vector<vector<int>> dp(n, vector<int>(n, -1));
+        // return f(0, 0, triangle, n, dp);
+
+        //tabulation----O(n2)
         // vector<vector<int>> dp(n, vector<int>(n, 0));
         // for(int j = 0; j<n; j++){
         //     dp[n-1][j] = triangle[n-1][j];
@@ -31,6 +37,9 @@ int f(int i, int j, vector<vector<int>> &triangle, int n, vector<vector<int>> &d
         //     }
         
         // return dp[0][0];
+
+
+        //space optimization -> O(n) space
         vector<int>curr(n,0), prev(n,0);
         for(int j = 0; j<n; j++){
             prev[j] = triangle[n-1][j];
