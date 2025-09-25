@@ -11,17 +11,21 @@ public:
         //     }
         // }
         // return {};
-        unordered_map<int, int> mp;
-        for(int i = 0; i<nums.size(); i++){
-            mp[nums[i]] = i;
 
-        }
+        //2 pass
+        unordered_map<int, int> mp;
+        // for(int i = 0; i<nums.size(); i++){
+        //     mp[nums[i]] = i;
+
+        // }
+        //1 pass
         for(int i = 0; i<nums.size(); i++){
             int remaning = target- nums[i];
-            if(mp.find(remaning) != mp.end() && i != mp[remaning]){
+            if(mp.find(remaning) != mp.end()){
                 
                 return {i, mp[remaning]};
             }
+            mp[nums[i]] = i;
         }
         return {};
     }
