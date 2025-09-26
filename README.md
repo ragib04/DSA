@@ -65,6 +65,7 @@ LeetCode and GFG
 | [0540-single-element-in-a-sorted-array](https://github.com/ragib04/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ragib04/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ragib04/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/ragib04/DSA/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/ragib04/DSA/tree/master/0645-set-mismatch) |
 | [0679-24-game](https://github.com/ragib04/DSA/tree/master/0679-24-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ragib04/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -246,6 +247,7 @@ LeetCode and GFG
 | [0135-candy](https://github.com/ragib04/DSA/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/ragib04/DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/ragib04/DSA/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/ragib04/DSA/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/ragib04/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ragib04/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/ragib04/DSA/tree/master/0768-partition-labels) |
@@ -406,6 +408,7 @@ LeetCode and GFG
 | [0189-rotate-array](https://github.com/ragib04/DSA/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ragib04/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ragib04/DSA/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/ragib04/DSA/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/ragib04/DSA/tree/master/0768-partition-labels) |
 | [1129-longest-string-chain](https://github.com/ragib04/DSA/tree/master/1129-longest-string-chain) |
@@ -496,6 +499,7 @@ LeetCode and GFG
 | [0300-longest-increasing-subsequence](https://github.com/ragib04/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ragib04/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ragib04/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/ragib04/DSA/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0792-binary-search](https://github.com/ragib04/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ragib04/DSA/tree/master/0907-koko-eating-bananas) |
@@ -536,6 +540,7 @@ LeetCode and GFG
 | [0368-largest-divisible-subset](https://github.com/ragib04/DSA/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/ragib04/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ragib04/DSA/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/ragib04/DSA/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/ragib04/DSA/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/ragib04/DSA/tree/master/0721-accounts-merge) |
 | [0900-reordered-power-of-2](https://github.com/ragib04/DSA/tree/master/0900-reordered-power-of-2) |
