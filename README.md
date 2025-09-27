@@ -73,6 +73,7 @@ LeetCode and GFG
 | [0733-flood-fill](https://github.com/ragib04/DSA/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/ragib04/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/ragib04/DSA/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/ragib04/DSA/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/ragib04/DSA/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/ragib04/DSA/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ragib04/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -285,6 +286,7 @@ LeetCode and GFG
 | [0368-largest-divisible-subset](https://github.com/ragib04/DSA/tree/master/0368-largest-divisible-subset) |
 | [0679-24-game](https://github.com/ragib04/DSA/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/ragib04/DSA/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/ragib04/DSA/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/ragib04/DSA/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/ragib04/DSA/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/ragib04/DSA/tree/master/1013-fibonacci-number) |
@@ -945,6 +947,7 @@ LeetCode and GFG
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/ragib04/DSA/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ragib04/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ragib04/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Game Theory
