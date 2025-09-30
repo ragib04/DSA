@@ -9,10 +9,10 @@ public:
             newArr.push_back((nums[i]+nums[i+1])%10);
 
         }
-            nums = newArr;
+            nums = move(newArr);
             n--;
         }
         return nums[0];
-        
+
     }
 };
