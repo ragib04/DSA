@@ -1,3 +1,4 @@
+/*
 class Solution {
 public:
 // t.c -> O(numBottles)
@@ -11,7 +12,7 @@ public:
         return consumed+numBottles;
     }
 };
-
+*/
 /*
 
 T.C -> O(log(N))
@@ -30,3 +31,12 @@ public:
     }
 };
 */
+
+class Solution {
+public:
+    int numWaterBottles(int numBottles, int numExchange) {
+        int n = numBottles, x = numExchange;
+        return n + (n-1)/(x-1);
+    }
+};
+
