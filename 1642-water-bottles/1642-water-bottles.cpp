@@ -1,7 +1,23 @@
 class Solution {
 public:
+// t.c -> O(numBottles)
     int numWaterBottles(int numBottles, int numExchange) {
-        // return (numBottles*numExchange-1)/(numExchange-1);
+        int consumed = 0;
+        while(numBottles >= numExchange){
+            consumed += numExchange;
+            numBottles -= numExchange;
+            numBottles += 1;
+        }
+        return consumed+numBottles;
+    }
+};
+
+/*
+
+T.C -> O(log(N))
+class Solution {
+public:
+    int numWaterBottles(int numBottles, int numExchange) {
         int n = numBottles, x = numExchange;
         int cnt = n;int r = 0;
         while(n>=x){
@@ -13,3 +29,4 @@ public:
         return cnt;
     }
 };
+*/
