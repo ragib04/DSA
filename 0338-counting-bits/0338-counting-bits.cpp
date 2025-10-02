@@ -5,8 +5,8 @@ public:
         for(int i = 0; i<=n; i++){
             int cnt = 0, x = i;
             while(x != 0){
-                cnt += x%2;
-                x = x/2;
+                x = (x & (x-1));
+                cnt++;
             }
             arr[i] = cnt;
         }
