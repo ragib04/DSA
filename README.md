@@ -52,6 +52,7 @@ LeetCode and GFG
 | [0221-maximal-square](https://github.com/ragib04/DSA/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/ragib04/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ragib04/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/ragib04/DSA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ragib04/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ragib04/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/ragib04/DSA/tree/master/0322-coin-change) |
@@ -290,6 +291,7 @@ LeetCode and GFG
 | [0189-rotate-array](https://github.com/ragib04/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ragib04/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ragib04/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ragib04/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ragib04/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ragib04/DSA/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/ragib04/DSA/tree/master/0368-largest-divisible-subset) |
@@ -364,6 +366,7 @@ LeetCode and GFG
 | [0219-contains-duplicate-ii](https://github.com/ragib04/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ragib04/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ragib04/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ragib04/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ragib04/DSA/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/ragib04/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/ragib04/DSA/tree/master/0409-longest-palindrome) |
@@ -513,6 +516,7 @@ LeetCode and GFG
 | [0074-search-a-2d-matrix](https://github.com/ragib04/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ragib04/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ragib04/DSA/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/ragib04/DSA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ragib04/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ragib04/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ragib04/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -554,6 +558,7 @@ LeetCode and GFG
 | [0217-contains-duplicate](https://github.com/ragib04/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ragib04/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ragib04/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ragib04/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ragib04/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/ragib04/DSA/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/ragib04/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -829,6 +834,7 @@ LeetCode and GFG
 | [0078-subsets](https://github.com/ragib04/DSA/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/ragib04/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ragib04/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ragib04/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ragib04/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ragib04/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/ragib04/DSA/tree/master/0371-sum-of-two-integers) |
