@@ -7,6 +7,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ragib04/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ragib04/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ragib04/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ragib04/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ragib04/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -251,6 +252,7 @@ LeetCode and GFG
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ragib04/DSA/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/ragib04/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ragib04/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ragib04/DSA/tree/master/0055-jump-game) |
@@ -418,6 +420,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ragib04/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/ragib04/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ragib04/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ragib04/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ragib04/DSA/tree/master/0031-next-permutation) |
