@@ -17,36 +17,38 @@ int ans = 0;
         // vector<vector<int>> dp(text1.size()+1, vector<int> (text2.size()+1,
         // -1));
         // return solve(0,0, text1, text2, dp);
-int n = text1.size(), m = text2.size();
-vector<vector<int>> dp(text1.size() + 1,vector<int>(text2.size() + 1, 0));
-for(int i = n-1; i>=0; i--){
-    for(int j = m-1; j>=0; j--){
-        int ans = 0;
-        if(text1[i] == text2[j]){
-            ans = 1+ dp[i+1][j+1];
-        }
-        else{
-            ans = max(dp[i+1][j], dp[i][j+1]);
-        }
-        dp[i][j] = ans;
-    }
-}
-return dp[0][0];
 
-
-// vector<int> curr(text2.length() + 1, 0), next(text2.length() + 1, 0);
-//         for (int i = text1.length()-1; i >= 0; i--) {
-//             for (int j = text2.length()-1; j >= 0; j--) {
-//                 int ans = 0;
-//                 if (text1[i] == text2[j]) {
-//                     ans = 1 + next[j + 1];
-//                 } else {
-//                     ans = max(next[j], curr[j + 1]);
-//                 }
-// curr[j] = ans;
-//             }
-//             next = curr;
+        // ------->>>> Tabulation
+// int n = text1.size(), m = text2.size();
+// vector<vector<int>> dp(text1.size() + 1,vector<int>(text2.size() + 1, 0));
+// for(int i = n-1; i>=0; i--){
+//     for(int j = m-1; j>=0; j--){
+//         int ans = 0;
+//         if(text1[i] == text2[j]){
+//             ans = 1+ dp[i+1][j+1];
 //         }
-//         return next[0];
+//         else{
+//             ans = max(dp[i+1][j], dp[i][j+1]);
+//         }
+//         dp[i][j] = ans;
+//     }
+// }
+// return dp[0][0];
+
+//space optimization
+vector<int> curr(text2.length() + 1, 0), next(text2.length() + 1, 0);
+        for (int i = text1.length()-1; i >= 0; i--) {
+            for (int j = text2.length()-1; j >= 0; j--) {
+                int ans = 0;
+                if (text1[i] == text2[j]) {
+                    ans = 1 + next[j + 1];
+                } else {
+                    ans = max(next[j], curr[j + 1]);
+                }
+curr[j] = ans;
+            }
+            next = curr;
+        }
+        return next[0];
     }
 };
