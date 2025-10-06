@@ -79,6 +79,7 @@ LeetCode and GFG
 | [0733-flood-fill](https://github.com/ragib04/DSA/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/ragib04/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/ragib04/DSA/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/ragib04/DSA/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/ragib04/DSA/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/ragib04/DSA/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/ragib04/DSA/tree/master/0890-lemonade-change) |
@@ -470,6 +471,7 @@ LeetCode and GFG
 | [0721-accounts-merge](https://github.com/ragib04/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ragib04/DSA/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/ragib04/DSA/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/ragib04/DSA/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/ragib04/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ragib04/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/ragib04/DSA/tree/master/0820-find-eventual-safe-states) |
@@ -502,6 +504,7 @@ LeetCode and GFG
 | [0721-accounts-merge](https://github.com/ragib04/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ragib04/DSA/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/ragib04/DSA/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/ragib04/DSA/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/ragib04/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ragib04/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/ragib04/DSA/tree/master/0820-find-eventual-safe-states) |
@@ -531,6 +534,7 @@ LeetCode and GFG
 | [0611-valid-triangle-number](https://github.com/ragib04/DSA/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0792-binary-search](https://github.com/ragib04/DSA/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/ragib04/DSA/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/ragib04/DSA/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/ragib04/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ragib04/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -612,6 +616,7 @@ LeetCode and GFG
 | [0498-diagonal-traverse](https://github.com/ragib04/DSA/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/ragib04/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ragib04/DSA/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/ragib04/DSA/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/ragib04/DSA/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/ragib04/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/ragib04/DSA/tree/master/1036-rotting-oranges) |
@@ -895,6 +900,7 @@ LeetCode and GFG
 | [0200-number-of-islands](https://github.com/ragib04/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ragib04/DSA/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/ragib04/DSA/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/ragib04/DSA/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/ragib04/DSA/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/ragib04/DSA/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ragib04/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -918,6 +924,7 @@ LeetCode and GFG
 | [0407-trapping-rain-water-ii](https://github.com/ragib04/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ragib04/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/ragib04/DSA/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/ragib04/DSA/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ragib04/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ragib04/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/ragib04/DSA/tree/master/1753-path-with-minimum-effort) |
