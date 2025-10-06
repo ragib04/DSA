@@ -18,9 +18,10 @@ public:
         int dc[] = {0, 1, 0, -1};
 
         while(!pq.empty()){
-            auto [t, p] = pq.top();
+            auto it = pq.top();
             pq.pop();
-            int r = p.first, c = p.second;
+            int t = it.first;
+            int r = it.second.first, c = it.second.second;
 
             if (vis[r][c]) continue;
             vis[r][c] = 1;
