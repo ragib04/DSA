@@ -17,19 +17,34 @@ int robed(int i, vector<int> &nums, vector<int>&dp){
         // return robed(n-1, nums, dp);
 //Tabulation
 
-vector<int> dp(n+1, 0);
-dp[0] = nums[0];
- for(int i = 1; i<n; i++){
-    int pick = nums[i];
-    if(i>1) pick += dp[i-2];
-    int not_pick = dp[i-1];
+// vector<int> dp(n+1, 0);
+// dp[0] = nums[0];
+//  for(int i = 1; i<n; i++){
+//     int pick = nums[i];
+//     if(i>1) pick += dp[i-2];
+//     int not_pick = dp[i-1];
 
-    dp[i] = max(pick, not_pick);
+//     dp[i] = max(pick, not_pick);
 
 
- }
- return dp[n-1];
-       
-        
+//  }
+//  return dp[n-1];
+
+//space optimization
+if(n == 0) return 0;
+if(n == 1) return nums[0];
+int prev1 = max(nums[0], nums[1]);
+int prev2 = nums[0];
+
+for(int i = 2; i<n; i++){
+    int pick = nums[i]+prev2;
+    int not_pick = prev1;
+    int curr = max(pick, not_pick);
+
+    prev2 = prev1;
+    prev1 = curr;
+}
+return prev1;
+
     }
 };
