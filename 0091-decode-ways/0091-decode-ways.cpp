@@ -22,20 +22,47 @@ public:
         // vector<int> dp(n+1, -1);
         // return solve(0, s, n, dp);
 
-        vector<int> dp(n + 1, 0);
-        dp[n] = 1;
+        // vector<int> dp(n + 1, 0);
+        // dp[n] = 1;
+        // for (int i = n - 1; i >= 0; i--) {
+        //     if (s[i] == '0') {
+        //         dp[i] = 0;
+        //     } else {
+        //         int pick = dp[i + 1];
+        //         if (i + 1 < n &&
+        //             (s[i] == '1' || (s[i] == '2' && s[i + 1] <= '6')))
+        //             pick += dp[i + 2];
+
+        //         dp[i] = pick;
+        //     }
+        // }
+        // return dp[0];
+
+
+
+
+         int next = 1;      // dp[i+1]
+        int nextNext = 0;  // dp[i+2]
+        int curr = 0;
+
         for (int i = n - 1; i >= 0; i--) {
             if (s[i] == '0') {
-                dp[i] = 0;
+                curr = 0;  // can't decode starting with '0'
             } else {
-                int pick = dp[i + 1];
-                if (i + 1 < n &&
-                    (s[i] == '1' || (s[i] == '2' && s[i + 1] <= '6')))
-                    pick += dp[i + 2];
+                curr = next;  // single character decode
 
-                dp[i] = pick;
+                if (i + 1 < n) {
+                    int twoDigit = (s[i] - '0') * 10 + (s[i + 1] - '0');
+                    if (twoDigit >= 10 && twoDigit <= 26)
+                        curr += (i + 2 <= n ? nextNext : 1);
+                }
             }
+
+            nextNext = next;
+            next = curr;
         }
-        return dp[0];
+
+        return curr;
+    
     }
 };
