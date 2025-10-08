@@ -1,11 +1,18 @@
 class Solution {
 public:
+bool solve(int i, vector<int>&nums, int n, vector<int>&dp){
+    if(i == n-1) return true;
+    if(i>=n) return true;
+    if(dp[i] != -1) return dp[i];
+    for(int jump = 1; jump<=nums[i]; jump++){
+        if(solve(jump+i, nums, n, dp) == true) return dp[i] = true;
+    }
+   return dp[i] =false;
+}
     bool canJump(vector<int>& nums) {
-        int maxjump = nums.size()-1;
-        for(int i = nums.size()-2; i>=0; i--){
-            if(maxjump<=i+nums[i]) maxjump = i;
+        int n = nums.size();
+        vector<int>dp(n+1, -1);
+        return solve(0, nums, n, dp);
 
-        }
-return (maxjump == 0)? true : false;
     }
 };
