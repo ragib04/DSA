@@ -132,6 +132,7 @@ LeetCode and GFG
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ragib04/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ragib04/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ragib04/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ragib04/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ragib04/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2429-design-a-food-rating-system](https://github.com/ragib04/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ragib04/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -444,6 +445,7 @@ LeetCode and GFG
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ragib04/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ragib04/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ragib04/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ragib04/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2481-strictly-palindromic-number](https://github.com/ragib04/DSA/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ragib04/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/ragib04/DSA/tree/master/2551-apply-operations-to-an-array) |
@@ -548,6 +550,7 @@ LeetCode and GFG
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ragib04/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ragib04/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ragib04/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ragib04/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ragib04/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ragib04/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ragib04/DSA/tree/master/2665-minimum-time-to-repair-cars) |
@@ -589,6 +592,7 @@ LeetCode and GFG
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ragib04/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ragib04/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ragib04/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ragib04/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2479-meeting-rooms-iii](https://github.com/ragib04/DSA/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ragib04/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ragib04/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
