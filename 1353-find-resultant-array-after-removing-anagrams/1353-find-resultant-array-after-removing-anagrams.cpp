@@ -10,10 +10,19 @@ bool isanagrams(string st1, string st2) {
         //     if (--mp[c] < 0) return false;
         // }
         // return true;
-        sort(st1.begin(), st1.end());
-        sort(st2.begin(), st2.end());
+        //using sort
+        // sort(st1.begin(), st1.end());
+        // sort(st2.begin(), st2.end());
 
-        return st1 == st2;
+        // return st1 == st2;
+
+        int freq[26] = {0};
+        for(char c: st1) freq[c - 'a']++;
+
+        for(char c: st2){
+            if(--freq[c - 'a']<0) return false;
+        }
+        return true;
     }
     vector<string> removeAnagrams(vector<string>& words) {
         vector<string> ans;
