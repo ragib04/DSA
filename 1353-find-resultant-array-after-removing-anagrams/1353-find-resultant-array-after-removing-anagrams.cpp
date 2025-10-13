@@ -4,12 +4,16 @@ public:
 bool isanagrams(string st1, string st2) {
         if (st1.size() != st2.size()) return false;
         
-        unordered_map<char, int> mp;
-        for (char c : st1) mp[c]++;
-        for (char c : st2) {
-            if (--mp[c] < 0) return false;
-        }
-        return true;
+        // unordered_map<char, int> mp;
+        // for (char c : st1) mp[c]++;
+        // for (char c : st2) {
+        //     if (--mp[c] < 0) return false;
+        // }
+        // return true;
+        sort(st1.begin(), st1.end());
+        sort(st2.begin(), st2.end());
+
+        return st1 == st2;
     }
     vector<string> removeAnagrams(vector<string>& words) {
         vector<string> ans;
