@@ -173,6 +173,7 @@ LeetCode and GFG
 | [3483-alternating-groups-ii](https://github.com/ragib04/DSA/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ragib04/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ragib04/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ragib04/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ragib04/DSA/tree/master/3643-zero-array-transformation-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ragib04/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ragib04/DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
