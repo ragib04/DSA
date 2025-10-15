@@ -1,21 +1,21 @@
 class Solution {
 public:
-
- bool isincreasing(int s, int e, vector<int> &nums) {
-        // check strictly increasing between s and e-1
-        for (int i = s+1; i < e; i++) {
-            if (nums[i] <= nums[i - 1])
-                return false;
-        }
-        return true;
-    }
     bool hasIncreasingSubarrays(vector<int>& nums, int k) {
         int n = nums.size();
-        for(int i = 0; i +2*k <= n; i++){
-            bool first = isincreasing(i, i+k, nums);
-            bool second = isincreasing(i+k, i+ 2*k, nums);
 
-            if(first == true && second == true) return true;
+        int currRun = 1, prevRun = 0;
+
+        for(int i = 1; i<n; i++){
+            if(nums[i]>nums[i-1]) currRun++;
+            else{
+                prevRun = currRun;
+                currRun = 1;
+
+            }
+
+            if(currRun/2 >= k) return true;
+
+            if(min(currRun, prevRun)>=k) return true;
         }
         return false;
     }
