@@ -147,6 +147,7 @@ LeetCode and GFG
 | [2564-most-profitable-path-in-a-tree](https://github.com/ragib04/DSA/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ragib04/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ragib04/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ragib04/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ragib04/DSA/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/ragib04/DSA/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/ragib04/DSA/tree/master/2689-rearranging-fruits) |
@@ -290,6 +291,7 @@ LeetCode and GFG
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ragib04/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ragib04/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ragib04/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ragib04/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/ragib04/DSA/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/ragib04/DSA/tree/master/2689-rearranging-fruits) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ragib04/DSA/tree/master/3001-apply-operations-to-maximize-score) |
@@ -335,6 +337,7 @@ LeetCode and GFG
 | [2481-strictly-palindromic-number](https://github.com/ragib04/DSA/tree/master/2481-strictly-palindromic-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ragib04/DSA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ragib04/DSA/tree/master/2649-count-total-number-of-colored-cells) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ragib04/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ragib04/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ragib04/DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/ragib04/DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -427,6 +430,7 @@ LeetCode and GFG
 | [2308-divide-array-into-equal-pairs](https://github.com/ragib04/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/ragib04/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/ragib04/DSA/tree/master/2479-meeting-rooms-iii) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ragib04/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/ragib04/DSA/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ragib04/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ragib04/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
