@@ -1,39 +1,34 @@
 class Solution {
 public:
-    bool canFinish(int v, vector<vector<int>>& edges) {
-         vector<vector<int>> adj(v);
-        for(int i= 0; i<edges.size(); i++){
-            int x = edges[i][0];
-            int y = edges[i][1];
-            adj[x].push_back(y);
-        }
-        // find all indegree
-        vector<int> indegree(v);
-        for(int i = 0; i<v; i++){
-            for(auto j: adj[i]){
-                indegree[j]++;
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        int V = numCourses;
+        vector<vector<int>> adj(V);
+        for (int i = 0; i < prerequisites.size(); i++) {
+    int x = prerequisites[i][0];
+    int y = prerequisites[i][1];
+    adj[y].push_back(x);
+}
+        vector<int> indegree(V);
+        for(int i = 0; i<V; i++){
+            for(auto it: adj[i]){
+                indegree[it]++;
             }
         }
         queue<int> q;
-        //push all 0 indegree in the queue
-        for(int i = 0; i<v; i++){
+        for(int i = 0; i<V; i++){
             if(indegree[i] == 0) q.push(i);
         }
-        // do bfs
-        vector<int> topo;
+        int cnt = 0;
         while(!q.empty()){
-            int front = q.front();
+            int node = q.front();
             q.pop();
-            
-            topo.push_back(front);
-            //neighbour indegree update
-            for(auto node: adj[front]){
-                indegree[node]--;
-                if(indegree[node] == 0) q.push(node);
+            cnt++;
+            for(auto it: adj[node]){
+                indegree[it]--;
+                if(indegree[it] == 0) q.push(it);
             }
         }
-        if(topo.size() == v) return true;
+        if(cnt == V) return true;
         return false;
-            
     }
 };
