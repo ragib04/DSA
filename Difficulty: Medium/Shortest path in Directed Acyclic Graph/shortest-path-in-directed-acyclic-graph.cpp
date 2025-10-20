@@ -12,7 +12,7 @@ class Solution {
     }
 
     vector<int> shortestPath(int V, int E, vector<vector<int>>& edges) {
-        // Build adjacency list
+      
         vector<pair<int, int>> adj[V];
         for (int i = 0; i < E; i++) {
             int u = edges[i][0];
@@ -21,7 +21,6 @@ class Solution {
             adj[u].push_back({v, wt});
         }
 
-        // Step 1: Topological Sort
         vector<int> vis(V, 0);
         stack<int> st;
         for (int i = 0; i < V; i++) {
@@ -30,7 +29,6 @@ class Solution {
             }
         }
 
-        // Step 2: Shortest path using topological order
         vector<int> dist(V, 1e9);
         dist[0] = 0; // Source is node 0
 
@@ -49,7 +47,6 @@ class Solution {
             }
         }
 
-        // Optional: Replace unreachable nodes (INF) with -1
         for (int i = 0; i < V; i++) {
             if (dist[i] == 1e9) dist[i] = -1;
         }
