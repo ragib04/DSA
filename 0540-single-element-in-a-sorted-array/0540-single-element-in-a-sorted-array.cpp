@@ -2,11 +2,11 @@ class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
         int n = nums.size();
-        int s = 1, e = n-2;
+        int s = 0, e = n-1;
         if(n == 1) return nums[0];
         //bpundary condition
-        if(nums[s] != nums[s-1]) return nums[s-1];
-        if(nums[e] != nums[e+1]) return nums[e+1];
+        if(nums[s] != nums[s+1]) return nums[s];
+        if(nums[e] != nums[e-1]) return nums[e];
         while(s<=e){
 
             int mid = (s+e)/2;
