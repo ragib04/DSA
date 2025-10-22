@@ -1,24 +1,34 @@
 class Solution {
 public:
     int maxFrequency(vector<int>& nums, int k, int numOperations) {
-        int maxVal = *max_element(nums.begin(), nums.end()) + k + 2;
-        int* count = new int[maxVal]();
+        if(nums.size() == 1) return 1;
+        int maxele = *max_element(begin(nums), end(nums))+k;
 
-        for (int v : nums)
-            count[v]++;
-
-        for (int i = 1; i < maxVal; i++)
-            count[i] += count[i - 1];
-
-        int res = 0;
-        for (int i = 0; i < maxVal; i++) {
-            int left = max(0, i - k);
-            int right = min(maxVal - 1, i + k);
-            int total = count[right] - (left ? count[left - 1] : 0);
-            int freq = count[i] - (i ? count[i - 1] : 0);
-            res = max(res, freq + min(numOperations, total - freq));
+        vector<int> freq(maxele+1);
+        for(int &num: nums){
+            freq[num]++;
         }
+        //cummulative sum of frq
+        for(int i = 1; i<=maxele; i++){
+            freq[i] += freq[i-1];
+        }
+        int res = 0;
+        for(int target = 0; target<maxele; target++){
+            if(freq[target] == 0) continue;
 
+            int leftNum = max(0, target-k);
+            int rightNum = min(maxele, target+k);
+
+            int totalcnt = freq[rightNum] - ( leftNum>0? freq[leftNum-1] : 0);
+
+            int targetcnt = freq[target] - (target>0? freq[target-1] : 0);
+
+            int needconversion = totalcnt-targetcnt;
+
+            int possibleconv = targetcnt + min(needconversion, numOperations);
+
+            res = max(res, possibleconv);
+        }
         return res;
     }
 };
