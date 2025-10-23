@@ -1,14 +1,13 @@
 class Solution {
 public:
     bool hasSameDigits(string s) {
-        string digit = s;
 
-        while (digit.size() > 2) {
-            vector<int> nums(digit.size() - 1);
+        while (s.size() > 2) {
+            vector<int> nums(s.size() - 1);
 
         
-            for (int i = 1; i < digit.size(); i++) {
-                int sum = (digit[i] - '0' + digit[i - 1] - '0') % 10;
+            for (int i = 1; i < s.size(); i++) {
+                int sum = (s[i] - '0' + s[i - 1] - '0') % 10;
                 nums[i - 1] = sum;
             }
 
@@ -17,9 +16,9 @@ public:
             for (int num : nums) {
                 temp += to_string(num);
             }
-            digit = temp;
+            s = temp;
         }
 
-        return digit[0] == digit[1];
+        return s[0] == s[1];
     }
 };
