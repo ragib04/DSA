@@ -124,6 +124,7 @@ LeetCode and GFG
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ragib04/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ragib04/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ragib04/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2169-simple-bank-system](https://github.com/ragib04/DSA/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ragib04/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ragib04/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ragib04/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -437,6 +438,7 @@ LeetCode and GFG
 | [2023-design-movie-rental-system](https://github.com/ragib04/DSA/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ragib04/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/ragib04/DSA/tree/master/2107-find-unique-binary-string) |
+| [2169-simple-bank-system](https://github.com/ragib04/DSA/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ragib04/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ragib04/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ragib04/DSA/tree/master/2308-divide-array-into-equal-pairs) |
@@ -812,6 +814,7 @@ LeetCode and GFG
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ragib04/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ragib04/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/ragib04/DSA/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/ragib04/DSA/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/ragib04/DSA/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ragib04/DSA/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/ragib04/DSA/tree/master/3797-design-spreadsheet) |
@@ -868,6 +871,7 @@ LeetCode and GFG
 | [0498-diagonal-traverse](https://github.com/ragib04/DSA/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/ragib04/DSA/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ragib04/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/ragib04/DSA/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ragib04/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ragib04/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ragib04/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
