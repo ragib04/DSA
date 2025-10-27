@@ -9,7 +9,7 @@ public:
                 if(bank[i][j] == '1') cnt++;
             }
             if(cnt != 0){
-            ans= cnt*prevcnt+ans;
+            ans += cnt*prevcnt;
             prevcnt = cnt;
             
             }
