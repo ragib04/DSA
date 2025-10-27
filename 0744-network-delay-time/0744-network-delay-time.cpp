@@ -1,37 +1,33 @@
 class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-        vector<vector<pair<int, int>>> adj(n + 1); // 1-based indexing
-        for (auto &it : times) {
+        vector<vector<pair<int, int>>> adj(n+1);
+        for(auto it: times){
             int u = it[0];
-            int v = it[1]; 
-            int w = it[2]; 
+            int v = it[1];
+            int w = it[2];
             adj[u].push_back({v, w});
         }
-
-        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> q;
-        vector<int> dist(n + 1, 1e9);
-
-        q.push({0, k});
+        vector<int> dist(n+1, 1e9);
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
+        pq.push({0, k});
         dist[k] = 0;
-
-        while (!q.empty()) {
-            auto [time, node] = q.top();
-            q.pop();
-
-            if (time > dist[node]) continue;
-
-            for (auto &[adjNode, wt] : adj[node]) {
-                if (time + wt < dist[adjNode]) {
-                    dist[adjNode] = time + wt;
-                    q.push({dist[adjNode], adjNode});
+        while(!pq.empty()){
+            auto [time, node] = pq.top();
+            pq.pop();
+            if(time > dist[node]) continue;
+            for(auto it: adj[node]){
+                int adjnode = it.first;
+                int wt = it.second;
+                if(wt+time < dist[adjnode]){
+                    dist[adjnode] = wt+time;
+                    pq.push({dist[adjnode], adjnode});
                 }
             }
         }
-
         int maxdist = 0;
-        for (int i = 1; i <= n; i++) { // start from 1
-            if (dist[i] == 1e9) return -1;
+        for(int i = 1; i<=n; i++){
+            if(dist[i] == 1e9) return -1;
             maxdist = max(maxdist, dist[i]);
         }
         return maxdist;
