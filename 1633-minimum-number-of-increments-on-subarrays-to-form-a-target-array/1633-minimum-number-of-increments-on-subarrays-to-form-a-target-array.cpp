@@ -8,10 +8,11 @@ public:
         for(int i = 0; i<n; i++){
             curr = target[i];
 
-            if((curr>0 && prev < 0) || (curr<0 && prev>0)){
-                ans += abs(curr);
-            }
-            else if(abs(curr) > abs(prev)){
+            // if((curr>0 && prev < 0) || (curr<0 && prev>0)){
+            //     ans += abs(curr);
+            // }
+            //else 
+            if(abs(curr) > abs(prev)){
                 ans += (abs(curr-prev));
             }
             prev = curr;
