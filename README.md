@@ -54,6 +54,7 @@ LeetCode and GFG
 | [0229-majority-element-ii](https://github.com/ragib04/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ragib04/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ragib04/DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ragib04/DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/ragib04/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ragib04/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/ragib04/DSA/tree/master/0322-coin-change) |
@@ -481,6 +482,7 @@ LeetCode and GFG
 | [0165-compare-version-numbers](https://github.com/ragib04/DSA/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/ragib04/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ragib04/DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/ragib04/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ragib04/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ragib04/DSA/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/ragib04/DSA/tree/master/0611-valid-triangle-number) |
