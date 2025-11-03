@@ -5,16 +5,11 @@ public:
         int sum = 0;
         
         for(int i = 1;i<n; i++){
-            int maxi = 0;
-            
-            while(i<n && colors[i] == colors[i-1]){
-                maxi = max(maxi, neededTime[i-1]);
-                sum += neededTime[i-1];
-                i++;
+            if(colors[i] == colors[i-1]){
+                sum += min(neededTime[i], neededTime[i-1]);
+                neededTime[i] = max(neededTime[i], neededTime[i-1]);
             }
-            sum += neededTime[i-1];
-            maxi = max(maxi, neededTime[i-1]);
-            if(maxi != 0) sum -= maxi;
+        
         }
         return sum;
     }
