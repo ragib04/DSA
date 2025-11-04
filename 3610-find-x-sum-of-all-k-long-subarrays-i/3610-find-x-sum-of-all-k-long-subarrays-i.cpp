@@ -22,7 +22,7 @@ int func( priority_queue<pair<int,int>> &pq, int x){
             for(int j = i; j<k+i; j++){
                 mp[nums[j]]++;
             }
-            priority_queue<pair<int,int>> pq;
+        priority_queue<pair<int,int>> pq;
         for(auto i: mp){
             pq.push({i.second, i.first});
         }
