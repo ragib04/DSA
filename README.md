@@ -67,6 +67,7 @@ LeetCode and GFG
 | [0442-find-all-duplicates-in-an-array](https://github.com/ragib04/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ragib04/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ragib04/DSA/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/ragib04/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/ragib04/DSA/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/ragib04/DSA/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/ragib04/DSA/tree/master/0518-coin-change-ii) |
@@ -245,6 +246,7 @@ LeetCode and GFG
 | [0338-counting-bits](https://github.com/ragib04/DSA/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/ragib04/DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/ragib04/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/ragib04/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/ragib04/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ragib04/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ragib04/DSA/tree/master/0518-coin-change-ii) |
@@ -794,6 +796,7 @@ LeetCode and GFG
 | [0290-word-pattern](https://github.com/ragib04/DSA/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/ragib04/DSA/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/ragib04/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/ragib04/DSA/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/ragib04/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ragib04/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/ragib04/DSA/tree/master/0678-valid-parenthesis-string) |
