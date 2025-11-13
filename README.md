@@ -327,6 +327,7 @@ LeetCode and GFG
 | [2681-put-marbles-in-bags](https://github.com/ragib04/DSA/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/ragib04/DSA/tree/master/2689-rearranging-fruits) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ragib04/DSA/tree/master/3001-apply-operations-to-maximize-score) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ragib04/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ragib04/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ragib04/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ragib04/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -838,6 +839,7 @@ LeetCode and GFG
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ragib04/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3396-valid-word](https://github.com/ragib04/DSA/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/ragib04/DSA/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ragib04/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ragib04/DSA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/ragib04/DSA/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ragib04/DSA/tree/master/3618-find-the-original-typed-string-ii) |
@@ -860,6 +862,7 @@ LeetCode and GFG
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ragib04/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ragib04/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ragib04/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ragib04/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ragib04/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
