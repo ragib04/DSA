@@ -363,6 +363,7 @@ LeetCode and GFG
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ragib04/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/ragib04/DSA/tree/master/1448-maximum-69-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ragib04/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/ragib04/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/ragib04/DSA/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ragib04/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ragib04/DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -822,6 +823,7 @@ LeetCode and GFG
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ragib04/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ragib04/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ragib04/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/ragib04/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ragib04/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ragib04/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ragib04/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
