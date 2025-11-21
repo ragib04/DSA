@@ -473,6 +473,7 @@ LeetCode and GFG
 | [1813-maximum-erasure-value](https://github.com/ragib04/DSA/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ragib04/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ragib04/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/ragib04/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ragib04/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/ragib04/DSA/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ragib04/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -834,6 +835,7 @@ LeetCode and GFG
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ragib04/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ragib04/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ragib04/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/ragib04/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2032-largest-odd-number-in-string](https://github.com/ragib04/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/ragib04/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/ragib04/DSA/tree/master/2107-find-unique-binary-string) |
@@ -921,6 +923,7 @@ LeetCode and GFG
 | [0560-subarray-sum-equals-k](https://github.com/ragib04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ragib04/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ragib04/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/ragib04/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ragib04/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ragib04/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/ragib04/DSA/tree/master/2529-range-product-queries-of-powers) |
@@ -1028,6 +1031,7 @@ LeetCode and GFG
 | [0645-set-mismatch](https://github.com/ragib04/DSA/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ragib04/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ragib04/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/ragib04/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ragib04/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ragib04/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ragib04/DSA/tree/master/2308-divide-array-into-equal-pairs) |
