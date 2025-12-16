@@ -68,6 +68,7 @@ LeetCode and GFG
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ragib04/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ragib04/DSA/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/ragib04/DSA/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/ragib04/DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/ragib04/DSA/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/ragib04/DSA/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/ragib04/DSA/tree/master/0518-coin-change-ii) |
