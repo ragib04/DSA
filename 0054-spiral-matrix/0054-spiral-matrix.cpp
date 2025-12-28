@@ -1,45 +1,37 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
+        int n = matrix.size();
+        int m = matrix[0].size();
+        int count  = 0;
+        int total = n*m;
+
+        int startingRow = 0, startingCol = 0;
+        int endingRow = n-1, endingCol = m-1;
         vector<int> ans;
-        int row= matrix.size();
-        int col = matrix[0].size();
-
-        int count = 0;
-        int total = row * col;
-
-        int startingRow = 0;
-        int startingCol = 0;
-        int endingRow = row-1;
-        int endingCol = col-1;
         while(count<total){
-            for(int index = startingCol; count < total && index <= endingCol; index++){
-                ans.push_back(matrix[startingRow][index]);
+            for(int i = startingCol; i<=endingCol && count<total; i++){
+                ans.push_back(matrix[startingRow][i]);
                 count++;
             }
             startingRow++;
-
-            //printing ending column
-            for(int index = startingRow; count<total && index <= endingRow; index++){
-                ans.push_back(matrix[index][endingCol]);
+            for(int i = startingRow; i<=endingRow && count<total; i++){
+                ans.push_back(matrix[i][endingCol]);
                 count++;
             }
             endingCol--;
-
-            for(int index = endingCol; count<total && index >= startingCol; index--){
-                ans.push_back(matrix[endingRow][index]);
+            for(int i = endingCol; i>=startingCol && count<total; i--){
+                ans.push_back(matrix[endingRow][i]);
                 count++;
             }
             endingRow--;
-
-            //print startingclm
-
-            for(int index = endingRow; count< total && index >= startingRow; index--){
-                ans.push_back(matrix[index][startingCol]);
+            for(int i = endingRow; i>=startingRow && count<total; i--){
+                ans.push_back(matrix[i][startingCol]);
                 count++;
             }
             startingCol++;
         }
         return ans;
+        
     }
 };
