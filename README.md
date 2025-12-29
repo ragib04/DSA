@@ -501,6 +501,7 @@ LeetCode and GFG
 | [0645-set-mismatch](https://github.com/ragib04/DSA/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/ragib04/DSA/tree/master/0721-accounts-merge) |
+| [0756-pyramid-transition-matrix](https://github.com/ragib04/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/ragib04/DSA/tree/master/0768-partition-labels) |
 | [0900-reordered-power-of-2](https://github.com/ragib04/DSA/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ragib04/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -834,6 +835,7 @@ LeetCode and GFG
 | [0216-combination-sum-iii](https://github.com/ragib04/DSA/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/ragib04/DSA/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/ragib04/DSA/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/ragib04/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/ragib04/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ragib04/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ragib04/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -886,6 +888,7 @@ LeetCode and GFG
 | [0583-delete-operation-for-two-strings](https://github.com/ragib04/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/ragib04/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/ragib04/DSA/tree/master/0721-accounts-merge) |
+| [0756-pyramid-transition-matrix](https://github.com/ragib04/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/ragib04/DSA/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/ragib04/DSA/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ragib04/DSA/tree/master/0944-delete-columns-to-make-sorted) |
@@ -1123,6 +1126,7 @@ LeetCode and GFG
 | [0342-power-of-four](https://github.com/ragib04/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/ragib04/DSA/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/ragib04/DSA/tree/master/0645-set-mismatch) |
+| [0756-pyramid-transition-matrix](https://github.com/ragib04/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ragib04/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ragib04/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ragib04/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
