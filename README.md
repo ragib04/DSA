@@ -89,6 +89,7 @@ LeetCode and GFG
 | [0792-binary-search](https://github.com/ragib04/DSA/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/ragib04/DSA/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/ragib04/DSA/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/ragib04/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/ragib04/DSA/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/ragib04/DSA/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ragib04/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -396,6 +397,7 @@ LeetCode and GFG
 | [0679-24-game](https://github.com/ragib04/DSA/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/ragib04/DSA/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/ragib04/DSA/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/ragib04/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/ragib04/DSA/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/ragib04/DSA/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/ragib04/DSA/tree/master/1013-fibonacci-number) |
@@ -504,6 +506,7 @@ LeetCode and GFG
 | [0721-accounts-merge](https://github.com/ragib04/DSA/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/ragib04/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/ragib04/DSA/tree/master/0768-partition-labels) |
+| [0840-magic-squares-in-grid](https://github.com/ragib04/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/ragib04/DSA/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ragib04/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ragib04/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -803,6 +806,7 @@ LeetCode and GFG
 | [0542-01-matrix](https://github.com/ragib04/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ragib04/DSA/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/ragib04/DSA/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/ragib04/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/ragib04/DSA/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/ragib04/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/ragib04/DSA/tree/master/1036-rotting-oranges) |
