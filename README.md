@@ -139,6 +139,7 @@ LeetCode and GFG
 | [1917-maximum-average-pass-ratio](https://github.com/ragib04/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ragib04/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ragib04/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/ragib04/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ragib04/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/ragib04/DSA/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/ragib04/DSA/tree/master/2054-two-best-non-overlapping-events) |
@@ -365,6 +366,7 @@ LeetCode and GFG
 | [1834-minimum-number-of-people-to-teach](https://github.com/ragib04/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/ragib04/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ragib04/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1975-maximum-matrix-sum](https://github.com/ragib04/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/ragib04/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ragib04/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ragib04/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -830,6 +832,7 @@ LeetCode and GFG
 | [1628-count-submatrices-with-all-ones](https://github.com/ragib04/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/ragib04/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ragib04/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/ragib04/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ragib04/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ragib04/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ragib04/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
