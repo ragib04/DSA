@@ -4,20 +4,21 @@ public:
         unordered_map<char, int> mp;
         for(char ch: s){
             mp[ch]++;
-        
         }
         priority_queue<pair<int, char>> pq;
-        for(auto ch: mp){
-            pq.push({ch.second, ch.first});
+        for(auto it: mp){
+            pq.push({it.second, it.first});
         }
-        string ans = "";
+        string res = "";
         while(!pq.empty()){
-            int top = pq.top().first;
-            while(top--){
-                ans += pq.top().second;
+            int cnt = pq.top().first;
+            char ch = pq.top().second;
+            while(cnt){
+                res += ch;
+                cnt--;
             }
             pq.pop();
         }
-        return ans;
+        return res;
     }
 };
