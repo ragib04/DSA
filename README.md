@@ -32,6 +32,7 @@ LeetCode and GFG
 | [0075-sort-colors](https://github.com/ragib04/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ragib04/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ragib04/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/ragib04/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/ragib04/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ragib04/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ragib04/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -269,6 +270,7 @@ LeetCode and GFG
 | [0064-minimum-path-sum](https://github.com/ragib04/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ragib04/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ragib04/DSA/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/ragib04/DSA/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/ragib04/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ragib04/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ragib04/DSA/tree/master/0118-pascals-triangle) |
@@ -827,6 +829,7 @@ LeetCode and GFG
 | [0064-minimum-path-sum](https://github.com/ragib04/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ragib04/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ragib04/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/ragib04/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/ragib04/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ragib04/DSA/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/ragib04/DSA/tree/master/0221-maximal-square) |
@@ -886,6 +889,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ragib04/DSA/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/ragib04/DSA/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ragib04/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ragib04/DSA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/ragib04/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -1270,6 +1274,7 @@ LeetCode and GFG
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ragib04/DSA/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ragib04/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ragib04/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ragib04/DSA/tree/master/3001-apply-operations-to-maximize-score) |
