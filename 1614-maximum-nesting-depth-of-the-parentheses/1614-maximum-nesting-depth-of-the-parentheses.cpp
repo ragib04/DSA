@@ -9,7 +9,7 @@ public:
             if(s[i] == '('){
                 open++;
             }
-            else if(s[i] == ')'){
+            else if(open>0 && s[i] == ')'){
                 
                 maxi = max(maxi, open);
                 open--;
