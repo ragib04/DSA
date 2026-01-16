@@ -607,6 +607,7 @@ LeetCode and GFG
 | [0611-valid-triangle-number](https://github.com/ragib04/DSA/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/ragib04/DSA/tree/master/0768-partition-labels) |
+| [0876-middle-of-the-linked-list](https://github.com/ragib04/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1129-longest-string-chain](https://github.com/ragib04/DSA/tree/master/1129-longest-string-chain) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ragib04/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ragib04/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -1314,6 +1315,7 @@ LeetCode and GFG
 | [0206-reverse-linked-list](https://github.com/ragib04/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ragib04/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ragib04/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ragib04/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ragib04/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ragib04/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Function
