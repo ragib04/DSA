@@ -10,46 +10,45 @@
  */
 class Solution {
 public:
-ListNode* getmid(ListNode* head){
-    ListNode* slow = head;
-    ListNode* fast = head->next;
-    while(fast != NULL && fast -> next != NULL){
-        fast = fast->next->next;
-        slow = slow->next;
+void reverseLL(ListNode* &head, ListNode* temp){
+    if(temp->next == NULL) {
+        head = temp;
+        return;
     }
-    return slow;
+    
+    reverseLL(head,temp->next);
+    temp->next->next = temp;
+    temp->next = NULL;
+
+
 }
-ListNode* reverse(ListNode* head){
-    ListNode* curr = head;
-    ListNode* prev = NULL;
-    ListNode* next = NULL;
-    while(curr != NULL){
-        next = curr->next;
-        curr->next = prev;
-        prev = curr;
-        curr = next;
+void insert(ListNode* &head, ListNode* &tail, int val){
+    ListNode* newHead = new ListNode(val);
+    if(head == NULL){
+        head = newHead;
+        tail = head;
+        return;
     }
-    return prev;
+    tail->next = newHead;
+    tail = newHead;
 }
     bool isPalindrome(ListNode* head) {
-        if(head->next == NULL){
-            return true;
+        if(head == NULL || head->next == NULL) return true;
+        ListNode* newHead = NULL;
+        ListNode* newTail = NULL;
+        ListNode* temp = head;
+        while(temp){
+            insert(newHead, newTail, temp->val);
+            temp = temp->next;
         }
-        ListNode* middle = getmid(head);
-        ListNode* temp = middle -> next;
-        middle->next = reverse(temp);
+        reverseLL(newHead, newHead);
 
-        ListNode* head1 = head;
-        ListNode* head2 = middle->next;
-        while(head2 !=NULL){
-            if(head1->val != head2->val){
-                return false;
-            }
-            head1 = head1->next;
-            head2 = head2-> next;
+        temp = head;
+        while(temp){
+            if(temp->val != newHead->val) return false;
+            temp = temp->next;
+            newHead = newHead->next;
         }
-        temp = middle->next;
-        middle->next = reverse(temp);
         return true;
     }
 };
