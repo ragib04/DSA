@@ -604,6 +604,7 @@ LeetCode and GFG
 | [0125-valid-palindrome](https://github.com/ragib04/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ragib04/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ragib04/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ragib04/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ragib04/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ragib04/DSA/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/ragib04/DSA/tree/master/0189-rotate-array) |
@@ -783,6 +784,7 @@ LeetCode and GFG
 | [0015-3sum](https://github.com/ragib04/DSA/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/ragib04/DSA/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/ragib04/DSA/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/ragib04/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ragib04/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ragib04/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ragib04/DSA/tree/master/0229-majority-element-ii) |
@@ -1037,6 +1039,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ragib04/DSA/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/ragib04/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ragib04/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ragib04/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ragib04/DSA/tree/master/0191-number-of-1-bits) |
@@ -1322,6 +1325,7 @@ LeetCode and GFG
 | [0138-copy-list-with-random-pointer](https://github.com/ragib04/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ragib04/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ragib04/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ragib04/DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/ragib04/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ragib04/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ragib04/DSA/tree/master/0237-delete-node-in-a-linked-list) |
@@ -1390,4 +1394,8 @@ LeetCode and GFG
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/ragib04/DSA/tree/master/3454-separate-squares-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ragib04/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
