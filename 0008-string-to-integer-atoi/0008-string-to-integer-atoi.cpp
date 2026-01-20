@@ -12,7 +12,7 @@ public:
             i++;
         }
         if(s[i] == '0') i++;
-        while(i<n && isdigit(s[i])){
+        while(i<n && s[i]>='0' && s[i]<='9'){
             int digit = s[i] - '0';
             if(num > (INT_MAX-digit)/10) return sign == 1 ? INT_MAX: INT_MIN;
 
