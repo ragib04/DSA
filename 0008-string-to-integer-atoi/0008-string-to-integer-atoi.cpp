@@ -1,25 +1,24 @@
 class Solution {
 public:
     int myAtoi(string s) {
-        int len = s.size();
-        double num = 0;
-        int i=0;
-        while(s[i] == ' '){
+        int n = s.size();
+        long long num = 0;
+        int i = 0;
+        int sign = 1;
+        while(i<n && s[i] == ' ') i++;
+
+        if(i<n && s[i] == '+' || s[i] == '-'){
+            sign = (s[i] == '+')? 1: -1;
             i++;
         }
-        bool positive = s[i] == '+';
-        bool negative = s[i] == '-';
-        positive == true ? i++ : i;
-        negative == true ? i++ : i;
-        while(i < len && s[i] >= '0' && s[i] <= '9'){
-            num = num*10 + (s[i]-'0');
+        if(s[i] == '0') i++;
+        while(i<n && isdigit(s[i])){
+            int digit = s[i] - '0';
+            if(num > (INT_MAX-digit)/10) return sign == 1 ? INT_MAX: INT_MIN;
+
+            num = num*10+digit;
             i++;
         }
-        num = negative ? -num : num;
-        cout<<num<<endl;
-        num = (num > INT_MAX) ? INT_MAX : num;
-        num = (num < INT_MIN) ? INT_MIN : num;
-        cout<<num<<endl;
-        return int(num);
+        return sign * (int)num;
     }
 };
