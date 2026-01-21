@@ -1,9 +1,11 @@
 class Solution:
     def minBitwiseArray(self, nums: List[int]) -> List[int]:
         ans = []
-        for n in nums:
-            if n != 2:
-                ans.append(n - ((n + 1) & (-n - 1)) // 2)
+        for i in nums:
+            if i != 2:
+                ans.append(i-((i+1)&(-i-1))//2)
             else:
-                ans.append(-1)
-        return ans
+                ans.append(-1); 
+
+
+        return ans         
