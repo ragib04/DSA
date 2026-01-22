@@ -1,20 +1,21 @@
 class Solution {
 public:
+
+double calcu(double x, long n){
+    if(n == 0) return 1.00;
+    double half = calcu(x, n/2);
+     
+     if(n%2 == 0) return half*half;
+     else return half*half*x;
+}
     double myPow(double x, int n) {
-        double ans = 1.0;
+        
         long nn = n;
-        if(nn<0) nn = -1*nn;
-        while(nn){
-            if(nn%2){
-                ans *= x;
-                nn -= 1;
-            }
-            else{
-                x = x*x;
-                nn = nn/2;
-            }
+        if(nn<0){
+            x = 1/x;
+            nn = -nn;
         }
-        if(n<0) return 1/ans;
-        return ans;
+       return calcu(x, n);
+        
     }
 };
