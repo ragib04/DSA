@@ -3,10 +3,9 @@ public:
 
 double calcu(double x, long n){
     if(n == 0) return 1.00;
-    double half = calcu(x, n/2);
      
-     if(n%2 == 0) return half*half;
-     else return half*half*x;
+     if(n%2 == 0) return calcu(x*x, n/2);
+     return x * calcu(x*x, (n-1)/2);
 }
     double myPow(double x, int n) {
         
@@ -15,7 +14,7 @@ double calcu(double x, long n){
             x = 1/x;
             nn = -nn;
         }
-       return calcu(x, n);
+       return calcu(x, nn);
         
     }
 };
