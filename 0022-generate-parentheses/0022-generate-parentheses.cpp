@@ -1,29 +1,17 @@
 class Solution {
 public:
-
-vector<string> valid;
-void generate(string &s, int open, int close){
-    if(open == 0 & close == 0){
-        valid.push_back(s);
+void func(int n, int open, int close, vector<string> &ans, string path){
+    if(path.size()==2*n){
+        ans.push_back(path);
         return;
     }
-
-    if(open>0){
-        s.push_back('(');
-        generate(s,open-1, close);
-        s.pop_back();
-    }
-    if(close>0){
-        if(open<close){
-            s.push_back(')');
-            generate(s,open,close-1);
-            s.pop_back();
-        }
-    }
+    if(open<n) func(n, open+1, close, ans, path+'(');
+    if(close<open) func(n, open, close+1, ans, path+')');
 }
     vector<string> generateParenthesis(int n) {
-        string s;
-        generate(s,n,n);
-        return valid;
+        vector<string> ans;
+        string path;
+        func(n, 0, 0, ans, path);
+        return ans;
     }
 };
