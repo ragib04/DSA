@@ -93,6 +93,7 @@ LeetCode and GFG
 | [0794-swim-in-rising-water](https://github.com/ragib04/DSA/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/ragib04/DSA/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/ragib04/DSA/tree/master/0840-magic-squares-in-grid) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ragib04/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0854-making-a-large-island](https://github.com/ragib04/DSA/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/ragib04/DSA/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ragib04/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -748,6 +749,7 @@ LeetCode and GFG
 | [0704-binary-search](https://github.com/ragib04/DSA/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/ragib04/DSA/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/ragib04/DSA/tree/master/0794-swim-in-rising-water) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ragib04/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/ragib04/DSA/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/ragib04/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ragib04/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
