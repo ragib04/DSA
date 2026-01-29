@@ -935,6 +935,7 @@ LeetCode and GFG
 | [0144-binary-tree-preorder-traversal](https://github.com/ragib04/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ragib04/DSA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/ragib04/DSA/tree/master/0678-valid-parenthesis-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ragib04/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ragib04/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ragib04/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ragib04/DSA/tree/master/1628-count-submatrices-with-all-ones) |
@@ -981,6 +982,7 @@ LeetCode and GFG
 | [0812-rotate-string](https://github.com/ragib04/DSA/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ragib04/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/ragib04/DSA/tree/master/1006-vowel-spellchecker) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ragib04/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ragib04/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ragib04/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1129-longest-string-chain](https://github.com/ragib04/DSA/tree/master/1129-longest-string-chain) |
