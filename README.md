@@ -89,6 +89,7 @@ LeetCode and GFG
 | [0717-1-bit-and-2-bit-characters](https://github.com/ragib04/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/ragib04/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ragib04/DSA/tree/master/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ragib04/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/ragib04/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ragib04/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/ragib04/DSA/tree/master/0792-binary-search) |
@@ -755,6 +756,7 @@ LeetCode and GFG
 | [0611-valid-triangle-number](https://github.com/ragib04/DSA/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0704-binary-search](https://github.com/ragib04/DSA/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ragib04/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ragib04/DSA/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/ragib04/DSA/tree/master/0794-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ragib04/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
