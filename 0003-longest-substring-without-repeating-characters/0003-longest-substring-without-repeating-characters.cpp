@@ -9,14 +9,11 @@ public:
         while(j<n){ /// O(n)
             if(mp.find(s[j]) != mp.end()){
                 ans = max(ans, j-i);
-                while(s[j] != s[i]){
-                    mp.erase(s[i]);
-                    i++;
-                }
-                mp[s[i]]--;
-                i++;
+                
+                i = max(i, mp[s[j]]+1); // if dup is within window otherwise ignore
+                
             }
-            mp[s[j]]++;
+            mp[s[j]] = j;
             j++;
         }
         ans = max(ans, j-i);
