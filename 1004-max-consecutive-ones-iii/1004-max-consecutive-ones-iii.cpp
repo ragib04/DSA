@@ -8,7 +8,7 @@ public:
         for(int j = 0; j<n; j++){
             if (nums[j] == 0)
                 cnt_zero++;
-            while (cnt_zero > k) {
+            if(cnt_zero > k) {
                 if (nums[i] == 0)
                     cnt_zero--;
                 i++;
