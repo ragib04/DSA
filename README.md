@@ -86,6 +86,7 @@ LeetCode and GFG
 | [0560-subarray-sum-equals-k](https://github.com/ragib04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/ragib04/DSA/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/ragib04/DSA/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/ragib04/DSA/tree/master/0658-find-k-closest-elements) |
 | [0679-24-game](https://github.com/ragib04/DSA/tree/master/0679-24-game) |
 | [0704-binary-search](https://github.com/ragib04/DSA/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ragib04/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -655,6 +656,7 @@ LeetCode and GFG
 | [0455-assign-cookies](https://github.com/ragib04/DSA/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/ragib04/DSA/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/ragib04/DSA/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/ragib04/DSA/tree/master/0768-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/ragib04/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1129-longest-string-chain](https://github.com/ragib04/DSA/tree/master/1129-longest-string-chain) |
@@ -779,6 +781,7 @@ LeetCode and GFG
 | [0540-single-element-in-a-sorted-array](https://github.com/ragib04/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/ragib04/DSA/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/ragib04/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/ragib04/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ragib04/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ragib04/DSA/tree/master/0792-binary-search) |
@@ -849,6 +852,7 @@ LeetCode and GFG
 | [0455-assign-cookies](https://github.com/ragib04/DSA/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/ragib04/DSA/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/ragib04/DSA/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/ragib04/DSA/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/ragib04/DSA/tree/master/0721-accounts-merge) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ragib04/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-reordered-power-of-2](https://github.com/ragib04/DSA/tree/master/0900-reordered-power-of-2) |
@@ -1236,6 +1240,7 @@ LeetCode and GFG
 | [0003-longest-substring-without-repeating-characters](https://github.com/ragib04/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ragib04/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ragib04/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0658-find-k-closest-elements](https://github.com/ragib04/DSA/tree/master/0658-find-k-closest-elements) |
 | [0867-new-21-game](https://github.com/ragib04/DSA/tree/master/0867-new-21-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/ragib04/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/ragib04/DSA/tree/master/0940-fruit-into-baskets) |
@@ -1364,6 +1369,7 @@ LeetCode and GFG
 | [0215-kth-largest-element-in-an-array](https://github.com/ragib04/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/ragib04/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ragib04/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/ragib04/DSA/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/ragib04/DSA/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/ragib04/DSA/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ragib04/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
