@@ -1112,6 +1112,7 @@ LeetCode and GFG
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ragib04/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ragib04/DSA/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ragib04/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ragib04/DSA/tree/master/0169-majority-element) |
@@ -1366,6 +1367,7 @@ LeetCode and GFG
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ragib04/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ragib04/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/ragib04/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ragib04/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -1422,6 +1424,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ragib04/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/ragib04/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ragib04/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/ragib04/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ragib04/DSA/tree/master/0141-linked-list-cycle) |
@@ -1503,6 +1506,7 @@ LeetCode and GFG
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ragib04/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ragib04/DSA/tree/master/0148-sort-list) |
 ## Doubly-Linked List
 |  |
