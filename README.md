@@ -625,6 +625,7 @@ LeetCode and GFG
 | [3623-count-number-of-trapezoids-i](https://github.com/ragib04/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ragib04/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3678-design-task-manager](https://github.com/ragib04/DSA/tree/master/3678-design-task-manager) |
+| [3714-longest-balanced-substring-ii](https://github.com/ragib04/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ragib04/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/ragib04/DSA/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/ragib04/DSA/tree/master/3827-implement-router) |
@@ -1075,6 +1076,7 @@ LeetCode and GFG
 | [3606-coupon-code-validator](https://github.com/ragib04/DSA/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/ragib04/DSA/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ragib04/DSA/tree/master/3618-find-the-original-typed-string-ii) |
+| [3714-longest-balanced-substring-ii](https://github.com/ragib04/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ragib04/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/ragib04/DSA/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ragib04/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -1171,6 +1173,7 @@ LeetCode and GFG
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/ragib04/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/ragib04/DSA/tree/master/3643-zero-array-transformation-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ragib04/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3714-longest-balanced-substring-ii](https://github.com/ragib04/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ragib04/DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/ragib04/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Simulation
