@@ -434,6 +434,7 @@ LeetCode and GFG
 | [0050-powx-n](https://github.com/ragib04/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ragib04/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ragib04/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ragib04/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ragib04/DSA/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ragib04/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/ragib04/DSA/tree/master/0189-rotate-array) |
@@ -1002,6 +1003,7 @@ LeetCode and GFG
 | [0020-valid-parentheses](https://github.com/ragib04/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ragib04/DSA/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/ragib04/DSA/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/ragib04/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/ragib04/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ragib04/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ragib04/DSA/tree/master/0115-distinct-subsequences) |
@@ -1180,6 +1182,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ragib04/DSA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/ragib04/DSA/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/ragib04/DSA/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/ragib04/DSA/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ragib04/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -1277,6 +1280,7 @@ LeetCode and GFG
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ragib04/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ragib04/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ragib04/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ragib04/DSA/tree/master/0136-single-number) |
