@@ -677,6 +677,7 @@ LeetCode and GFG
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ragib04/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ragib04/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ragib04/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ragib04/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -693,6 +694,7 @@ LeetCode and GFG
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ragib04/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ragib04/DSA/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/ragib04/DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ragib04/DSA/tree/master/0133-clone-graph) |
@@ -825,6 +827,7 @@ LeetCode and GFG
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ragib04/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ragib04/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ragib04/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ragib04/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -974,6 +977,7 @@ LeetCode and GFG
 | [0020-valid-parentheses](https://github.com/ragib04/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ragib04/DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/ragib04/DSA/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ragib04/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ragib04/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ragib04/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ragib04/DSA/tree/master/0496-next-greater-element-i) |
