@@ -11,6 +11,13 @@
  */
 class Solution {
 public:
+
+void func(TreeNode* root, vector<int> &ans){
+    if(root == NULL) return;
+    if(root->left) func(root->left, ans);
+    if(root->right) func(root->right, ans);
+    ans.push_back(root->val);
+}
     vector<int> postorderTraversal(TreeNode* root) {
         // L R N
         //using  2 stack 
@@ -18,19 +25,20 @@ public:
         vector<int> ans;
         if(!root) return ans;
         stack<TreeNode*> st1, st2;
-        st1.push(root);
-        while(!st1.empty()){
-            TreeNode* root = st1.top();
-            st1.pop();
-            st2.push(root);
-            if(root->left) st1.push(root->left);
-            if(root->right) st1.push(root->right);
+        // st1.push(root);
+        // while(!st1.empty()){
+        //     TreeNode* root = st1.top();
+        //     st1.pop();
+        //     st2.push(root);
+        //     if(root->left) st1.push(root->left);
+        //     if(root->right) st1.push(root->right);
 
-        }
-        while(!st2.empty()){
-            ans.push_back(st2.top()->val);
-            st2.pop();
-        }
+        // }
+        // while(!st2.empty()){
+        //     ans.push_back(st2.top()->val);
+        //     st2.pop();
+        // }
+        func(root, ans);
         return ans;
     }
 };
