@@ -679,6 +679,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ragib04/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/ragib04/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ragib04/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ragib04/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ragib04/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -699,6 +700,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ragib04/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/ragib04/DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/ragib04/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ragib04/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/ragib04/DSA/tree/master/0130-surrounded-regions) |
@@ -742,6 +744,7 @@ LeetCode and GFG
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ragib04/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ragib04/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/ragib04/DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ragib04/DSA/tree/master/0133-clone-graph) |
@@ -835,6 +838,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ragib04/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/ragib04/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ragib04/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ragib04/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ragib04/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
