@@ -578,6 +578,7 @@ LeetCode and GFG
 | [0940-fruit-into-baskets](https://github.com/ragib04/DSA/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ragib04/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ragib04/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ragib04/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1006-vowel-spellchecker](https://github.com/ragib04/DSA/tree/master/1006-vowel-spellchecker) |
 | [1129-longest-string-chain](https://github.com/ragib04/DSA/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/ragib04/DSA/tree/master/1160-letter-tile-possibilities) |
@@ -690,6 +691,7 @@ LeetCode and GFG
 | [0543-diameter-of-binary-tree](https://github.com/ragib04/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ragib04/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ragib04/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ragib04/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ragib04/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ragib04/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -725,6 +727,7 @@ LeetCode and GFG
 | [0820-find-eventual-safe-states](https://github.com/ragib04/DSA/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/ragib04/DSA/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ragib04/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ragib04/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/ragib04/DSA/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ragib04/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ragib04/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -768,6 +771,7 @@ LeetCode and GFG
 | [0803-cheapest-flights-within-k-stops](https://github.com/ragib04/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/ragib04/DSA/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/ragib04/DSA/tree/master/0854-making-a-large-island) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ragib04/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ragib04/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ragib04/DSA/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ragib04/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -851,6 +855,7 @@ LeetCode and GFG
 | [0543-diameter-of-binary-tree](https://github.com/ragib04/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ragib04/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ragib04/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ragib04/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ragib04/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ragib04/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -879,6 +884,7 @@ LeetCode and GFG
 | [0721-accounts-merge](https://github.com/ragib04/DSA/tree/master/0721-accounts-merge) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ragib04/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-reordered-power-of-2](https://github.com/ragib04/DSA/tree/master/0900-reordered-power-of-2) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ragib04/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1018-largest-perimeter-triangle](https://github.com/ragib04/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1129-longest-string-chain](https://github.com/ragib04/DSA/tree/master/1129-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/ragib04/DSA/tree/master/1200-minimum-absolute-difference) |
