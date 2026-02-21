@@ -447,6 +447,7 @@ LeetCode and GFG
 | [0368-largest-divisible-subset](https://github.com/ragib04/DSA/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/ragib04/DSA/tree/master/0371-sum-of-two-integers) |
 | [0679-24-game](https://github.com/ragib04/DSA/tree/master/0679-24-game) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ragib04/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/ragib04/DSA/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/ragib04/DSA/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/ragib04/DSA/tree/master/0840-magic-squares-in-grid) |
@@ -1315,6 +1316,7 @@ LeetCode and GFG
 | [0371-sum-of-two-integers](https://github.com/ragib04/DSA/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/ragib04/DSA/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/ragib04/DSA/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ragib04/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ragib04/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ragib04/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ragib04/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
