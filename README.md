@@ -1323,6 +1323,7 @@ LeetCode and GFG
 | [0645-set-mismatch](https://github.com/ragib04/DSA/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/ragib04/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ragib04/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/ragib04/DSA/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ragib04/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ragib04/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ragib04/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
