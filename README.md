@@ -683,6 +683,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ragib04/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/ragib04/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ragib04/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ragib04/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ragib04/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -710,6 +711,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ragib04/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/ragib04/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ragib04/DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/ragib04/DSA/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ragib04/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -805,6 +807,7 @@ LeetCode and GFG
 | [0035-search-insert-position](https://github.com/ragib04/DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ragib04/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ragib04/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0098-validate-binary-search-tree](https://github.com/ragib04/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ragib04/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ragib04/DSA/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ragib04/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -857,6 +860,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ragib04/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/ragib04/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ragib04/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ragib04/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ragib04/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
