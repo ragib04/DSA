@@ -691,6 +691,7 @@ LeetCode and GFG
 | [0124-binary-tree-maximum-path-sum](https://github.com/ragib04/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ragib04/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ragib04/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ragib04/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ragib04/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ragib04/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -720,6 +721,7 @@ LeetCode and GFG
 | [0200-number-of-islands](https://github.com/ragib04/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ragib04/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ragib04/DSA/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ragib04/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ragib04/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/ragib04/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ragib04/DSA/tree/master/0547-number-of-provinces) |
@@ -805,6 +807,7 @@ LeetCode and GFG
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ragib04/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ragib04/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ragib04/DSA/tree/master/0162-find-peak-element) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ragib04/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/ragib04/DSA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ragib04/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ragib04/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -862,6 +865,7 @@ LeetCode and GFG
 | [0124-binary-tree-maximum-path-sum](https://github.com/ragib04/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ragib04/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ragib04/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ragib04/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ragib04/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ragib04/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
