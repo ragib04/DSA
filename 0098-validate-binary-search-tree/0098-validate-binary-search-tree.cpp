@@ -22,6 +22,6 @@ bool solve(TreeNode* root, long long mi, long long mx){
 }
     bool isValidBST(TreeNode* root) {
         if(root->left == NULL && root->right == NULL) return true;
-        return solve(root, INT_MIN, INT_MAX);
+        return solve(root, LONG_MIN, LONG_MAX);
     }
 };
