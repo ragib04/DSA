@@ -523,6 +523,7 @@ LeetCode and GFG
 | [0326-power-of-three](https://github.com/ragib04/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ragib04/DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/ragib04/DSA/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ragib04/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/ragib04/DSA/tree/master/1922-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ragib04/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ragib04/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1099,6 +1100,7 @@ LeetCode and GFG
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ragib04/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ragib04/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ragib04/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ragib04/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ragib04/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ragib04/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ragib04/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1241,6 +1243,7 @@ LeetCode and GFG
 | [0054-spiral-matrix](https://github.com/ragib04/DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ragib04/DSA/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/ragib04/DSA/tree/master/0498-diagonal-traverse) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ragib04/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/ragib04/DSA/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ragib04/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ragib04/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
