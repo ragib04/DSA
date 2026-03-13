@@ -1,50 +1,18 @@
 class Solution {
 public:
+int solve(int ind, vector<int> &nums, vector<int> &dp){
+    if(ind == 0) return nums[ind];
+    if(ind<0) return 0;
+    if(dp[ind] != -1) return dp[ind];
+    int pick = nums[ind]+solve(ind-2, nums, dp);
+    int not_pick = solve(ind-1, nums, dp);
 
-int robed(int i, vector<int> &nums, vector<int>&dp){
-    if(i == 0) return nums[i];
-    if(i<0) return 0;
-    if(dp[i] != -1) return dp[i];
-    int pick = nums[i]+ robed(i-2, nums, dp);
-    int not_pick = robed(i-1, nums, dp);
-
-    return dp[i] = max(pick, not_pick);
+    dp[ind] = max(pick, not_pick);
+    return dp[ind];
 }
-
     int rob(vector<int>& nums) {
-        int n= nums.size();
-        // vector<int> dp(n+1, -1);
-        // return robed(n-1, nums, dp);
-//Tabulation
-
-// vector<int> dp(n+1, 0);
-// dp[0] = nums[0];
-//  for(int i = 1; i<n; i++){
-//     int pick = nums[i];
-//     if(i>1) pick += dp[i-2];
-//     int not_pick = dp[i-1];
-
-//     dp[i] = max(pick, not_pick);
-
-
-//  }
-//  return dp[n-1];
-
-//space optimization
-if(n == 0) return 0;
-if(n == 1) return nums[0];
-int prev1 = max(nums[0], nums[1]);
-int prev2 = nums[0];
-
-for(int i = 2; i<n; i++){
-    int pick = nums[i]+prev2;
-    int not_pick = prev1;
-    int curr = max(pick, not_pick);
-
-    prev2 = prev1;
-    prev1 = curr;
-}
-return prev1;
-
+        int n = nums.size();
+        vector<int>dp(n+1, -1);
+        return solve(n-1, nums, dp);
     }
 };
