@@ -82,6 +82,7 @@ LeetCode and GFG
 | [0496-next-greater-element-i](https://github.com/ragib04/DSA/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/ragib04/DSA/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/ragib04/DSA/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/ragib04/DSA/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ragib04/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ragib04/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ragib04/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -574,6 +575,7 @@ LeetCode and GFG
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ragib04/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ragib04/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ragib04/DSA/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/ragib04/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ragib04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ragib04/DSA/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ragib04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1220,6 +1222,7 @@ LeetCode and GFG
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ragib04/DSA/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/ragib04/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ragib04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/ragib04/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ragib04/DSA/tree/master/1004-max-consecutive-ones-iii) |
