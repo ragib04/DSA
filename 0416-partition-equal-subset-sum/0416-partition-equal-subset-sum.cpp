@@ -54,7 +54,7 @@ bool subsetsum(int ind, int target, vector<int>&nums, vector<vector<int>> &dp){
             totalsum += nums[i];
 
         }
-        if(totalsum%2) return false;
+        if(totalsum%2 == 1) return false;
         int target = totalsum/2;
 vector<vector<int>> dp(n+1, vector<int>(target+1, -1));
 //bool subsetSumToK(int n, int k, vector<int> &arr) {
