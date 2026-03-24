@@ -1,6 +1,10 @@
 class Solution {
 public:
-
+/*
+[[1 4 5]
+[2 7 6]
+[6 8 7]]
+**/
 // int solve(int i, int j, vector<vector<int>> &grid, vector<vector<int>> &dp){
 //     if(i == 0 && j == 0) return grid[i][j];
 //     if(i<0 || j<0) return INT_MAX;
@@ -14,6 +18,10 @@ public:
 // }
     int minPathSum(vector<vector<int>>& grid) {
         int n = grid.size(), m = grid[0].size();
+        /*//memo
+        vector<vector<int>> dp(n, vector<int>(m+1, -1));
+        return solve(n-1, m-1, grid, dp);
+        */
 
         vector<int> prev(m,0);
         for(int i = 0; i<n; i++){
