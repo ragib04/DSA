@@ -213,6 +213,7 @@ LeetCode and GFG
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ragib04/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ragib04/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ragib04/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ragib04/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ragib04/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ragib04/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ragib04/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -497,6 +498,7 @@ LeetCode and GFG
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/ragib04/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ragib04/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ragib04/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ragib04/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ragib04/DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ragib04/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ragib04/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -1003,6 +1005,7 @@ LeetCode and GFG
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ragib04/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ragib04/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2625-increment-submatrices-by-one](https://github.com/ragib04/DSA/tree/master/2625-increment-submatrices-by-one) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ragib04/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/ragib04/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ragib04/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ragib04/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -1277,6 +1280,7 @@ LeetCode and GFG
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ragib04/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/ragib04/DSA/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/ragib04/DSA/tree/master/2551-apply-operations-to-an-array) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ragib04/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/ragib04/DSA/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/ragib04/DSA/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ragib04/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
