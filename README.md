@@ -234,6 +234,7 @@ LeetCode and GFG
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ragib04/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ragib04/DSA/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ragib04/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ragib04/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3429-special-array-i](https://github.com/ragib04/DSA/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/ragib04/DSA/tree/master/3430-count-days-without-meetings) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ragib04/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -375,6 +376,7 @@ LeetCode and GFG
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ragib04/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ragib04/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ragib04/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ragib04/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/ragib04/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ragib04/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ragib04/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -1007,6 +1009,7 @@ LeetCode and GFG
 | [2625-increment-submatrices-by-one](https://github.com/ragib04/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ragib04/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/ragib04/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ragib04/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ragib04/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ragib04/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ragib04/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
