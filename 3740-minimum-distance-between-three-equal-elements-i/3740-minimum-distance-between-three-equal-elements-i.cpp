@@ -2,19 +2,23 @@ class Solution {
 public:
     int minimumDistance(vector<int>& nums) {
         int n = nums.size();
-        int last2[100] = {};
-        int res = 200;
-
-        for (int i = 0; i < n; i++) {
-            int val = nums[i] - 1, pos = i + 1;
-            int pack = last2[val];
-            int old = pack & 255, cur = pack >> 8;
-
-            last2[val] = cur | (pos << 8);
-
-            if (old) res = min(res, (pos - old) << 1);
+        if(n<3) return -1;
+        int dist = INT_MAX;
+        bool flag = false;
+        for(int i = 0; i<n-2;i++){
+            for(int j = i+1; j<n-1;j++){
+                if(nums[j] == nums[i]){
+                    for(int k = j+1; k<n; k++){
+                        if(nums[k] == nums[j]){
+                            flag = true;
+                            int cur_dis = abs(i-j)+abs(j-k)+abs(k-i);
+                            dist = min(cur_dis, dist);
+                        }
+                    }
+                }
+            }
         }
-
-        return -(res == 200) | res;
+        if(flag == false) return -1;
+        return dist;
     }
 };
