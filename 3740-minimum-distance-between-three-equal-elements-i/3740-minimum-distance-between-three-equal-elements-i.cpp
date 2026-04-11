@@ -11,14 +11,13 @@ public:
                     for(int k = j+1; k<n; k++){
                         if(nums[k] == nums[j]){
                             flag = true;
-                            int cur_dis = abs(i-j)+abs(j-k)+abs(k-i);
-                            dist = min(cur_dis, dist);
+                            //int cur_dis = abs(i-j)+abs(j-k)+abs(k-i);
+                            dist = min(dist, 2*(k-i));
                         }
                     }
                 }
             }
         }
-        if(flag == false) return -1;
-        return dist;
+        return flag ? dist : -1;
     }
 };
