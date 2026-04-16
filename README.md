@@ -1653,6 +1653,7 @@ LeetCode and GFG
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ragib04/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ragib04/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
