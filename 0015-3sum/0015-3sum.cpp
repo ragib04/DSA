@@ -1,29 +1,36 @@
 class Solution {
 public:
+/*
+sort arr
+pick n1 ele found remaning two ele n2 n3 in remaning arr
+        >> for n2 n3 apply two sum on remaning part of the arr using two pointer
+add into ans
+*/
     vector<vector<int>> threeSum(vector<int>& nums) {
-        vector<vector<int>> ans;
-        int n = nums.size();
         sort(nums.begin(), nums.end());
-        for(int i = 0; i<n; i++){
+        int n = nums.size();
+        vector<vector<int>> ans;
+
+      for(int i = 0; i<n; i++){
+            
             if(i>0 && nums[i] == nums[i-1]) continue;
-            int j = i+1; int k = n-1;
+            int n1 = -(nums[i]);
+            int j = i+1, k = n-1;
+    // Two sum
             while(j<k){
-                int sum = nums[i]+nums[j]+nums[k];
-                if(sum<0){
+                if(nums[j]+nums[k]>n1) k--;
+                else if(nums[j]+nums[k]<n1){
                     j++;
-                }
-                else if(sum>0){
-                    k--;
                 }
                 else{
-                    vector<int> temp = {nums[i], nums[j], nums[k]};
-                    ans.push_back(temp);
-                    j++;
-                    k--;
-                    while(j<k && nums[j] == nums[j-1]) j++;
-                    while(j<k && nums[k] == nums[k+1]) k--;
+                    while(j<k && nums[j] == nums[j+1]) j++;
+                    while(j<k && nums[k] == nums[k-1]) k--;
+                    ans.push_back({nums[i], nums[j], nums[k]});
+                    j++; k--; 
                 }
+                
             }
+            
         }
         return ans;
     }
