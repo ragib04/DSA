@@ -1,5 +1,9 @@
 class Solution {
 public:
+
+/*
+The key to solving this problem is understanding how negative numbers and zero affect the product of a subarray. A single negative number can turn the smallest product into the largest if multiplied correctly, so we must track both the maximum and minimum products at each step.
+*/
     int maxProduct(vector<int>& nums) {
         
 int n = nums.size();
