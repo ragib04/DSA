@@ -7,7 +7,7 @@ class Solution {
      }
      int top= st.top();
      st.pop();
-     insert(st, ele);
+     insert(st, ele); // 
      st.push(top);
  }
     void sortStack(stack<int> &st) {
@@ -15,7 +15,12 @@ class Solution {
        if(st.empty() || st.size() == 1) return;
        int top = st.top();
        st.pop();
-       sortStack(st);
+       sortStack(st); //n calls
        insert(st, top);
     }
 };
+//sort stack call -> n
+//incert = n ->insert + (n-1) popped + (n-1) pushed ....1 -> O(n)
+
+// t.c= O(n)*o(n) = n^2
+//s.c -> O(N) recursion call stack
